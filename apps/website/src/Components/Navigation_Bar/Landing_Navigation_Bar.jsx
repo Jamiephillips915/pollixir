@@ -1,10 +1,9 @@
-import { useState } from 'react';
 import { Link } from 'react-router-dom';
 
 import styles from './Navigation_Bar.module.css';
 import wordmark from '../../assets/wordmark.svg';
 
-import { Dropdown_Menu, Dropdown } from '../Dropdown_Menu/Dropdown_Menu';
+import { Dropdown_Menu} from '../Dropdown_Menu/Dropdown_Menu';
 import { HashLink } from 'react-router-hash-link';
 
 function Navigation_Bar({ menuActive, SetMenuActive, SetToggleActive }) {

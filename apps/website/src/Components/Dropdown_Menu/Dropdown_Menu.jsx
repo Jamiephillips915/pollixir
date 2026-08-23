@@ -4,7 +4,6 @@ import { Link } from 'react-router-dom';
 import styles from './Dropdown_Menu.module.css';
 import menuButton from '../../assets/menu-button.svg';
 import exitButton from '../../assets/exit-button.svg';
-import { useEffect } from 'react';
 
 export function Dropdown({SetToggleActive, SetMenuActive}) {
     return (

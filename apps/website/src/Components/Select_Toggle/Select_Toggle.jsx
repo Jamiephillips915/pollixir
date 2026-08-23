@@ -1,4 +1,3 @@
-import { useState } from 'react';
 import styles from './Select_Toggle.module.css'
 
 function Select_Toggle({canvasserToggleActive, SetToggleActive}) {

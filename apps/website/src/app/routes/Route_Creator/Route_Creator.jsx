@@ -1,6 +1,6 @@
 import styles from "./Route_Creator.module.css";
 import dropdown from "../../../assets/menu-button.svg";
-import { MapContainer, TileLayer, Marker, Popup, GeoJSON } from 'react-leaflet';
+import { MapContainer, TileLayer, GeoJSON } from 'react-leaflet';
 import 'leaflet/dist/leaflet.css';
 import RegionsMap from '../../../assets/RegionsMap.json';
 import { useState } from "react";
