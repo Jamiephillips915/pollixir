@@ -1,0 +1,149 @@
+.container{
+    display: flex;
+    align-items: center;
+
+    position: fixed;
+    top: 0;
+    z-index: 10;
+    
+    margin: 0;
+
+    width: calc(100vw - (100vw - 100%));
+    min-height: 7.5vh;
+
+    background-color: #0047AB;
+}
+
+.logo{
+    display: flex;
+
+    max-height: 100%;
+    
+    margin-left: 1rem;
+}
+
+.logo img{
+    max-width: clamp(6.5rem, 5.071rem + 3.81vw, 8.5rem);
+}
+
+.link {
+    display: flex;
+    align-items: center;
+
+    height: 100%;
+    max-width: fit-content;
+
+    cursor: pointer;
+    text-decoration: none;
+
+    margin-left: auto;
+
+    padding: 0 1rem 0 1rem;
+
+    color: white;
+    font-size: clamp(1rem, 0.75rem + 0.667vw, 1.35rem);
+    font-family: 'open-sans';
+}
+
+.button{
+    display: flex;
+    justify-content: center;
+
+    width: clamp(8rem, 6.214rem + 4.762vw, 10.5rem);
+    height: clamp(1.25rem, 1.155rem + 0.476vw, 1.75rem);
+
+    margin-left: auto;
+
+    padding: 0.25rem 0 0.25rem 0;
+
+    border-radius: 10px;
+    background-color: #003887;
+    text-decoration: none;
+}
+
+.button p{
+    color: white;
+    align-self: center;
+    font-size: clamp(1rem, 0.75rem + 0.667vw, 1.35rem)
+}
+
+#getStartedButton{
+    display: none;
+}
+
+#loginButton{
+    display: none;
+}
+
+#pricingLink{
+    display: none;
+}
+
+#canvasserLink{
+    display: none;
+}
+
+#organiserLink{
+    display: none;
+}
+
+#homeLink{
+    display: none;
+}
+
+@media (min-width: 500px){
+    #getStartedButton{
+        display: flex;
+    }
+}
+
+@media (min-width: 700px){
+    #getStartedButton{
+        margin-left: 1rem;
+    }
+    #loginButton{
+        display: flex;
+    }
+}
+
+@media (min-width: 1000px){
+    #loginButton{
+        margin-left: clamp(1rem, 0.238rem + 3.81vw, 5rem);
+    }
+    #pricingLink{
+        display: flex;
+    }
+}
+
+@media (min-width: 1050px) {
+    #pricingLink{
+        margin-left: clamp(0.5rem, 0.214rem + 1.429vw, 2rem);
+    }
+    #canvasserLink{
+        display: flex;
+    }
+}
+
+@media (min-width: 1200px){
+    #canvasserLink{
+        margin-left: clamp(0.5rem, 0.214rem + 1.429vw, 2rem);
+    }
+    #organiserLink{
+        display: flex;
+    }
+}
+
+@media (min-width: 1450px){
+    #organiserLink{
+        margin-left: clamp(0.5rem, 0.214rem + 1.429vw, 2rem);
+    }
+    #homeLink{
+        display: flex;
+    }
+    #getStartedButton{
+        margin-right: clamp(1rem, 0.619rem + 1.905vw, 3rem);
+    }
+}
+
+
+

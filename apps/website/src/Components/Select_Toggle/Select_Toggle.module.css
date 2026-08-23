@@ -1,0 +1,51 @@
+.canvasserContainer{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+
+    margin: 4rem 0 2rem 0;
+
+    min-width: 90%;
+    height: fit-content;
+}
+
+.featureToggle{
+    display: flex;
+    align-items: center;
+    justify-content: left;
+
+    width: clamp(12rem, 11.429rem + 2.857vw, 15rem);
+    height: clamp(2rem, 1.905rem + 0.476vw, 2.5rem);
+    /*12rem, 2rem*/
+
+    border-radius: 15px;
+    border: 0.75px solid #003887;
+    background-color: white;
+}
+
+.selectToggle{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    height: 100%;
+    min-width: clamp(6rem, 5.714rem + 1.429vw, 7.5rem);
+
+    border-radius: 14px;
+}
+
+.active{
+    background-color: #003887;
+}
+
+.active p{
+    color: white;
+}
+
+.selectToggle:last-child{
+    margin-left: auto;
+}
+
+.selectToggle p{
+    font-size: clamp(0.85rem, 0.821rem + 0.143vw, 1rem);
+}

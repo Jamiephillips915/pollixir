@@ -1,0 +1,9 @@
+@font-face {
+    font-family: 'open-sans';
+    src: url('../assets/OpenSans-VariableFont_wdth\,wght.ttf') format("truetype");
+}
+
+html, body{
+    margin: 0;
+    padding: 0;
+}
