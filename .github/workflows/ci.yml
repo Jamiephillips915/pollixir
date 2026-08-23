@@ -22,6 +22,10 @@ jobs:
         run: npm ci
         working-directory: ./apps/website
 
+      - name: Run eslint for Web app
+        run: npm run lint
+        
+
 
 
       
