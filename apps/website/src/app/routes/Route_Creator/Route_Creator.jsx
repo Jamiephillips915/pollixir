@@ -8,7 +8,7 @@ import { useState } from "react";
 function Route_Creator() {
     const regionStyle = { "color": "#225aab", "opacity": "0.25" }
 
-    const [activeLayer, SetActiveLayer] = useState(RegionsMap);
+    // const [activeLayer, SetActiveLayer] = useState(RegionsMap);
 
     const onEachFeature = (feature, layer) => {
         layer.on({
