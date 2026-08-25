@@ -3,14 +3,15 @@ import dropdown from "../../../assets/menu-button.svg";
 import { MapContainer, TileLayer, GeoJSON } from 'react-leaflet';
 import 'leaflet/dist/leaflet.css';
 import RegionsMap from '../../../assets/RegionsMap.json';
+import ConstituenciesMap from '../../../assets/Constituencies.json';
+
 import { useState } from "react";
 
-function Route_Creator() {
+function Selection_Map() {
     const regionStyle = { "color": "#225aab", "opacity": "0.25" }
+    const [activeLayer, SetActiveLayer] = useState(RegionsMap)
 
-    const [activeLayer, SetActiveLayer] = useState(RegionsMap);
-
-    const onEachFeature = (feature, layer) => {
+    const regionOnEachFeature = (feature, layer) => {
         layer.on({
             mouseover: (e) => {
                 const target = e.target;
@@ -19,16 +20,43 @@ function Route_Creator() {
                     opacity: '0.5'
                 })
             },
-                mouseout: (e) => {
-                    const target = e.target;
-                    target.setStyle({
-                        color: '#225aab',
-                        opacity: '0.25'
-                    });
-                },
+            mouseout: (e) => {
+                const target = e.target;
+                target.setStyle({
+                    color: '#225aab',
+                    opacity: '0.25'
+                });
+            },
+            click: () => {
+                const regionName = feature.properties.ITL125NM;
+
+                const filteredConstituencies = ConstituenciesMap.features.filter((constituency) => {
+                    return constituency.properties.REGION === regionName;
+                });
+
+                const filteredMap = {
+                    type: "FeatureCollection",
+                    features: filteredConstituencies
+                };
+
+                SetActiveLayer(filteredMap);
             }
+        }
         );
     }
+    return (
+        <div className={styles.mapContainer}>
+            <div className={styles.map}>
+                <MapContainer center={[53.663, -4.760]} maxBounds={[[49.5, -11], [61, 2]]} zoom={6} minZoom={6} maxBoundsViscosity={1} attributionControl={false}>
+                    <TileLayer url="https://server.arcgisonline.com/ArcGIS/rest/services/Canvas/World_Light_Gray_Base/MapServer/tile/{z}/{y}/{x}" />
+                    <GeoJSON key={activeLayer === RegionsMap ? "regions" : "constituencies"} data={activeLayer} style={regionStyle} onEachFeature={regionOnEachFeature} />
+                </MapContainer>
+            </div>
+        </div>
+    );
+}
+
+function Route_Creator() {
 
     return (
         <div className={styles.wrapper}>
@@ -43,16 +71,9 @@ function Route_Creator() {
             <div className={styles.routeWrapper}>
                 <div className={styles.mapWrapper}>
                     <h2 className={styles.mapTitle}>Select A Constituency From the Map</h2>
-                    <div className={styles.mapContainer}>
-                        <div className={styles.map}>
-                            <MapContainer center={[53.663, -4.760]} maxBounds={[[49.5, -11], [61, 2]]} zoom={6} minZoom={6} maxBoundsViscosity={1} scrollWheelZoom={false} attributionControl={false}>
-                                <TileLayer
-                                    url="https://server.arcgisonline.com/ArcGIS/rest/services/Canvas/World_Light_Gray_Base/MapServer/tile/{z}/{y}/{x}"
-                                />
-                                <GeoJSON key={JSON.stringify("features.id")} data={activeLayer} style={regionStyle} onEachFeature={onEachFeature} />
-                            </MapContainer>
-                        </div>
-                    </div>
+
+                    <Selection_Map />
+
                     <div className={styles.mapStatsContainer}>
                         <div className={styles.mapStats}>
                             <p className={styles.mapStatsTitle}>Visited</p>
