@@ -2,6 +2,14 @@ p {
     color: white;
     margin: 0;
     padding: 0;
+    font-family: 'open-sans';
+}
+
+h2 {
+    color: white;
+    margin: 0;
+    padding: 0;
+    font-family: 'open-sans';
 }
 
 div {
@@ -11,6 +19,7 @@ div {
 .wrapper {
     display: flex;
     flex-direction: column;
+    align-items: center;
     gap: 2.5em;
     background-color: #225aaa;
     min-height: 100vh;
@@ -19,11 +28,14 @@ div {
 
 .routeWrapper {
     display: flex;
-    justify-content: space-between;
+    justify-content: center;
 }
 
 .navigationContainer {
     display: flex;
+    position: sticky;
+    top: 0;
+    z-index: 10;
     align-content: center;
     box-sizing: border-box;
     max-height: 6vh;
@@ -91,7 +103,22 @@ div {
     flex-direction: column;
     align-items: center;
     width: fit-content;
-    margin-left: 10%;
+}
+
+.mapBackButton{
+    display: flex;
+    position: static;
+    justify-content: center;
+    align-items: center;
+    width: 2rem;
+    height: 2rem;
+    background-color: #003887;
+    cursor: pointer;
+}
+
+.mapBackButton img{
+    max-width: 60%;
+    max-height: 60%;
 }
 
 .mapTitle {
@@ -104,12 +131,18 @@ div {
 
 .mapContainer {
     display: flex;
+    margin-bottom: 1.5%;
+    margin-left: 2rem;
 }
 
 .map {
+    display: flex;
+    flex-direction: column;
+    justify-self: center;
     width: clamp(20rem, 5.714rem + 22.321vw, 32.5rem);
-    aspect-ratio: 1/1;
+    height: clamp(20rem, 5.714rem + 22.321vw, 32.5rem);
     overflow: hidden;
+    z-index: 0;
 }
 
 .map :global(.leaflet-container) {
@@ -117,10 +150,20 @@ div {
     height: 100%;
 }
 
+.areaTitle{
+    width: clamp(20rem, 5.714rem + 22.321vw, 32.5rem);
+    position: static;
+    justify-self: center;
+    font-family: 'open-sans';
+    font-size: clamp(1rem, 0.25rem + 1vw, 1.5rem);
+    overflow: visible;
+}
+
 .mapStatsContainer {
     display: flex;
     width: clamp(20rem, 5.714rem + 22.321vw, 32.5rem);
     margin-top: 0.75rem;
+    justify-self: center;
 }
 
 .mapStats {
@@ -149,82 +192,35 @@ div {
     font-family: 'open-sans';
 }
 
-.searchWrapper {
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    margin-right: 10%;
-}
-
-.searchTitle {
-    margin-bottom: 0.75rem;
-    letter-spacing: 0.025rem;
-    font-size: clamp(1.25rem, 0.393rem + 1.339vw, 2rem);
-    ;
-    color: white;
-    font-family: 'open-sans';
-
-}
-
-.searchInput {
-    all: unset;
-    background-color: #003887;
-    height: clamp(1.5rem, 0.471rem + 1.607vw, 2.4rem);
-    width: clamp(12.5rem, 3.929rem + 13.393vw, 20rem);
-    border: 1px solid gray;
-    border-radius: 0.5rem;
-    color: white;
-    font-size: clamp(0.75rem, 0.35rem + 0.625vw, 1.1rem);
-    font-family: 'open-sans';
-    padding-left: 0.5rem;
-}
-
-.searchInput:focus {
-    border: 1px solid white;
-}
-
-.searchInput:focus::placeholder {
-    color: white;
-}
-
-.searchInput::placeholder {
-    color: lightgray;
-    font-size: clamp(0.75rem, 0.35rem + 0.625vw, 1.1rem);
-    font-family: 'open-sans';
-}
-
-.resultContainer {
-    display: flex;
-    flex-direction: column;
-    margin-top: 1rem;
-}
-
-.searchResult {
-    display: flex;
-    align-items: center;
-    width: clamp(12.5rem, 3.929rem + 13.393vw, 20rem);
-    height: clamp(1.5rem, 0.471rem + 1.607vw, 2.4rem);
-    padding-left: 0.5rem;
-    border-bottom: 1px solid grey;
-    background-color: #003887;
-    font-family: 'open-sans';
-}
-
-.searchResult:last-of-type {
-    border-bottom: 0;
-}
-
-.searchResult p {
-    font-size: clamp(0.75rem, 0.35rem + 0.625vw, 1.1rem);
-}
-
 .generateButton {
+    display: flex;
     margin-top: auto;
     padding: 0.35rem 1rem 0.35rem 1rem;
     border: 1px solid white;
+    margin-top: 2rem;
+    margin-bottom: 5rem;
     border-radius: 0.35rem;
     background-color: #003887;
+    width: fit-content;
     font-family: 'open-sans';
     font-size: clamp(1rem, 0.429rem + 0.893vw, 1.5rem);
     color: white;
+    cursor: pointer;
+}
+
+.parameterWrapper{
+    margin-top: 2.5rem;
+}
+
+.parameterContainer{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: clamp(20rem, 5.714rem + 22.321vw, 32.5rem);
+    height: 10rem;
+    background-color: #003887;
+}
+
+.parameterTitle{
+    margin-bottom: 0.5rem;
 }

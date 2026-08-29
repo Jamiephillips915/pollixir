@@ -31107,13 +31107,7 @@
             },
             "properties": {
                 "FID": 8,
-                "ITL125CD": "TLJ",
-                "ITL125NM": "South East (England)",
-                "BNG_E": 470064,
-                "BNG_N": 172924,
-                "LAT": 51.45098,
-                "LONG": -0.99309,
-                "GlobalID": "047a2ec4-5248-4cf4-bd26-82e7affc102e"
+                "ITL125NM": "South East"
             }
         },
         {

@@ -156,7 +156,7 @@
             },
             "properties": {
                 "type": "Feature",
-                "properties.PCON24NM": "Aldershot",
+                "PCON24NM": "Aldershot",
                 "REGION": "South East",
                 "id": 0
             }
@@ -308,7 +308,7 @@
             },
             "properties": {
                 "type": "Feature",
-                "properties.PCON24NM": "Aldridge-Brownhills",
+                "PCON24NM": "Aldridge-Brownhills",
                 "REGION": "West Midlands",
                 "id": 1
             }
@@ -476,7 +476,7 @@
             },
             "properties": {
                 "type": "Feature",
-                "properties.PCON24NM": "Altrincham and Sale West",
+                "PCON24NM": "Altrincham and Sale West",
                 "REGION": "North West",
                 "id": 2
             }
@@ -704,7 +704,7 @@
             },
             "properties": {
                 "type": "Feature",
-                "properties.PCON24NM": "Amber Valley",
+                "PCON24NM": "Amber Valley",
                 "REGION": "East Midlands",
                 "id": 3
             }
@@ -1484,7 +1484,7 @@
             },
             "properties": {
                 "type": "Feature",
-                "properties.PCON24NM": "Arundel and South Downs",
+                "PCON24NM": "Arundel and South Downs",
                 "REGION": "South East",
                 "id": 4
             }
@@ -1724,7 +1724,7 @@
             },
             "properties": {
                 "type": "Feature",
-                "properties.PCON24NM": "Ashfield",
+                "PCON24NM": "Ashfield",
                 "REGION": "East Midlands",
                 "id": 5
             }
@@ -2184,7 +2184,7 @@
             },
             "properties": {
                 "type": "Feature",
-                "properties.PCON24NM": "Ashford",
+                "PCON24NM": "Ashford",
                 "REGION": "South East",
                 "id": 6
             }
@@ -2316,7 +2316,7 @@
             },
             "properties": {
                 "type": "Feature",
-                "properties.PCON24NM": "Ashton-under-Lyne",
+                "PCON24NM": "Ashton-under-Lyne",
                 "REGION": "North West",
                 "id": 7
             }
@@ -2716,7 +2716,7 @@
             },
             "properties": {
                 "type": "Feature",
-                "properties.PCON24NM": "Aylesbury",
+                "PCON24NM": "Aylesbury",
                 "REGION": "South East",
                 "id": 8
             }
@@ -3300,7 +3300,7 @@
             },
             "properties": {
                 "type": "Feature",
-                "properties.PCON24NM": "Banbury",
+                "PCON24NM": "Banbury",
                 "REGION": "South East",
                 "id": 9
             }
@@ -3416,7 +3416,7 @@
             },
             "properties": {
                 "type": "Feature",
-                "properties.PCON24NM": "Barking",
+                "PCON24NM": "Barking",
                 "REGION": "London",
                 "id": 10
             }
@@ -3672,7 +3672,7 @@
             },
             "properties": {
                 "type": "Feature",
-                "properties.PCON24NM": "Barnsley North",
+                "PCON24NM": "Barnsley North",
                 "REGION": "Yorkshire and the Humber",
                 "id": 11
             }
@@ -3880,7 +3880,7 @@
             },
             "properties": {
                 "type": "Feature",
-                "properties.PCON24NM": "Barnsley South",
+                "PCON24NM": "Barnsley South",
                 "REGION": "Yorkshire and the Humber",
                 "id": 12
             }
@@ -4990,7 +4990,7 @@
             },
             "properties": {
                 "type": "Feature",
-                "properties.PCON24NM": "Barrow and Furness",
+                "PCON24NM": "Barrow and Furness",
                 "REGION": "North West",
                 "id": 13
             }
@@ -5146,8 +5146,8 @@
             },
             "properties": {
                 "type": "Feature",
-                "properties.PCON24NM": "Basildon and Billericay",
-                "REGION": "Eastern",
+                "PCON24NM": "Basildon and Billericay",
+                "REGION": "East",
                 "id": 14
             }
         },
@@ -5338,7 +5338,7 @@
             },
             "properties": {
                 "type": "Feature",
-                "properties.PCON24NM": "Basingstoke",
+                "PCON24NM": "Basingstoke",
                 "REGION": "South East",
                 "id": 15
             }
@@ -5830,7 +5830,7 @@
             },
             "properties": {
                 "type": "Feature",
-                "properties.PCON24NM": "Bassetlaw",
+                "PCON24NM": "Bassetlaw",
                 "REGION": "East Midlands",
                 "id": 16
             }
@@ -6058,7 +6058,7 @@
             },
             "properties": {
                 "type": "Feature",
-                "properties.PCON24NM": "Bath",
+                "PCON24NM": "Bath",
                 "REGION": "South West",
                 "id": 17
             }
@@ -6158,7 +6158,7 @@
             },
             "properties": {
                 "type": "Feature",
-                "properties.PCON24NM": "Battersea",
+                "PCON24NM": "Battersea",
                 "REGION": "London",
                 "id": 18
             }
@@ -6574,7 +6574,7 @@
             },
             "properties": {
                 "type": "Feature",
-                "properties.PCON24NM": "Beaconsfield",
+                "PCON24NM": "Beaconsfield",
                 "REGION": "South East",
                 "id": 19
             }
@@ -6698,7 +6698,7 @@
             },
             "properties": {
                 "type": "Feature",
-                "properties.PCON24NM": "Beckenham and Penge",
+                "PCON24NM": "Beckenham and Penge",
                 "REGION": "London",
                 "id": 20
             }
@@ -6846,8 +6846,8 @@
             },
             "properties": {
                 "type": "Feature",
-                "properties.PCON24NM": "Bedford",
-                "REGION": "Eastern",
+                "PCON24NM": "Bedford",
+                "REGION": "East",
                 "id": 21
             }
         },
@@ -6966,7 +6966,7 @@
             },
             "properties": {
                 "type": "Feature",
-                "properties.PCON24NM": "Bermondsey and Old Southwark",
+                "PCON24NM": "Bermondsey and Old Southwark",
                 "REGION": "London",
                 "id": 22
             }
@@ -7026,7 +7026,7 @@
             },
             "properties": {
                 "type": "Feature",
-                "properties.PCON24NM": "Bethnal Green and Stepney",
+                "PCON24NM": "Bethnal Green and Stepney",
                 "REGION": "London",
                 "id": 23
             }
@@ -7586,7 +7586,7 @@
             },
             "properties": {
                 "type": "Feature",
-                "properties.PCON24NM": "Beverley and Holderness",
+                "PCON24NM": "Beverley and Holderness",
                 "REGION": "Yorkshire and the Humber",
                 "id": 24
             }
@@ -8122,7 +8122,7 @@
             },
             "properties": {
                 "type": "Feature",
-                "properties.PCON24NM": "Bexhill and Battle",
+                "PCON24NM": "Bexhill and Battle",
                 "REGION": "South East",
                 "id": 25
             }
@@ -8254,7 +8254,7 @@
             },
             "properties": {
                 "type": "Feature",
-                "properties.PCON24NM": "Bexleyheath and Crayford",
+                "PCON24NM": "Bexleyheath and Crayford",
                 "REGION": "London",
                 "id": 26
             }
@@ -8818,7 +8818,7 @@
             },
             "properties": {
                 "type": "Feature",
-                "properties.PCON24NM": "Bicester and Woodstock",
+                "PCON24NM": "Bicester and Woodstock",
                 "REGION": "South East",
                 "id": 27
             }
@@ -8922,7 +8922,7 @@
             },
             "properties": {
                 "type": "Feature",
-                "properties.PCON24NM": "Birkenhead",
+                "PCON24NM": "Birkenhead",
                 "REGION": "North West",
                 "id": 28
             }
@@ -9050,7 +9050,7 @@
             },
             "properties": {
                 "type": "Feature",
-                "properties.PCON24NM": "Birmingham Edgbaston",
+                "PCON24NM": "Birmingham Edgbaston",
                 "REGION": "West Midlands",
                 "id": 29
             }
@@ -9146,7 +9146,7 @@
             },
             "properties": {
                 "type": "Feature",
-                "properties.PCON24NM": "Birmingham Erdington",
+                "PCON24NM": "Birmingham Erdington",
                 "REGION": "West Midlands",
                 "id": 30
             }
@@ -9266,7 +9266,7 @@
             },
             "properties": {
                 "type": "Feature",
-                "properties.PCON24NM": "Birmingham Hall Green and Moseley",
+                "PCON24NM": "Birmingham Hall Green and Moseley",
                 "REGION": "West Midlands",
                 "id": 31
             }
@@ -9398,7 +9398,7 @@
             },
             "properties": {
                 "type": "Feature",
-                "properties.PCON24NM": "Birmingham Hodge Hill and Solihull North",
+                "PCON24NM": "Birmingham Hodge Hill and Solihull North",
                 "REGION": "West Midlands",
                 "id": 32
             }
@@ -9562,7 +9562,7 @@
             },
             "properties": {
                 "type": "Feature",
-                "properties.PCON24NM": "Birmingham Ladywood",
+                "PCON24NM": "Birmingham Ladywood",
                 "REGION": "West Midlands",
                 "id": 33
             }
@@ -9710,7 +9710,7 @@
             },
             "properties": {
                 "type": "Feature",
-                "properties.PCON24NM": "Birmingham Northfield",
+                "PCON24NM": "Birmingham Northfield",
                 "REGION": "West Midlands",
                 "id": 34
             }
@@ -9846,7 +9846,7 @@
             },
             "properties": {
                 "type": "Feature",
-                "properties.PCON24NM": "Birmingham Perry Barr",
+                "PCON24NM": "Birmingham Perry Barr",
                 "REGION": "West Midlands",
                 "id": 35
             }
@@ -9982,7 +9982,7 @@
             },
             "properties": {
                 "type": "Feature",
-                "properties.PCON24NM": "Birmingham Selly Oak",
+                "PCON24NM": "Birmingham Selly Oak",
                 "REGION": "West Midlands",
                 "id": 36
             }
@@ -10122,7 +10122,7 @@
             },
             "properties": {
                 "type": "Feature",
-                "properties.PCON24NM": "Birmingham Yardley",
+                "PCON24NM": "Birmingham Yardley",
                 "REGION": "West Midlands",
                 "id": 37
             }
@@ -10794,7 +10794,7 @@
             },
             "properties": {
                 "type": "Feature",
-                "properties.PCON24NM": "Bishop Auckland",
+                "PCON24NM": "Bishop Auckland",
                 "REGION": "North East",
                 "id": 38
             }
@@ -10926,7 +10926,7 @@
             },
             "properties": {
                 "type": "Feature",
-                "properties.PCON24NM": "Blackburn",
+                "PCON24NM": "Blackburn",
                 "REGION": "North West",
                 "id": 39
             }
@@ -11074,7 +11074,7 @@
             },
             "properties": {
                 "type": "Feature",
-                "properties.PCON24NM": "Blackley and Middleton South",
+                "PCON24NM": "Blackley and Middleton South",
                 "REGION": "North West",
                 "id": 40
             }
@@ -11298,7 +11298,7 @@
             },
             "properties": {
                 "type": "Feature",
-                "properties.PCON24NM": "Blackpool North and Fleetwood",
+                "PCON24NM": "Blackpool North and Fleetwood",
                 "REGION": "North West",
                 "id": 41
             }
@@ -11466,7 +11466,7 @@
             },
             "properties": {
                 "type": "Feature",
-                "properties.PCON24NM": "Blackpool South",
+                "PCON24NM": "Blackpool South",
                 "REGION": "North West",
                 "id": 42
             }
@@ -11800,7 +11800,7 @@
             },
             "properties": {
                 "type": "Feature",
-                "properties.PCON24NM": "Blaydon and Consett",
+                "PCON24NM": "Blaydon and Consett",
                 "REGION": "North East",
                 "id": 43
             }
@@ -12248,7 +12248,7 @@
             },
             "properties": {
                 "type": "Feature",
-                "properties.PCON24NM": "Blyth and Ashington",
+                "PCON24NM": "Blyth and Ashington",
                 "REGION": "North East",
                 "id": 44
             }
@@ -12472,7 +12472,7 @@
             },
             "properties": {
                 "type": "Feature",
-                "properties.PCON24NM": "Bognor Regis and Littlehampton",
+                "PCON24NM": "Bognor Regis and Littlehampton",
                 "REGION": "South East",
                 "id": 45
             }
@@ -12892,7 +12892,7 @@
             },
             "properties": {
                 "type": "Feature",
-                "properties.PCON24NM": "Bolsover",
+                "PCON24NM": "Bolsover",
                 "REGION": "East Midlands",
                 "id": 46
             }
@@ -13084,7 +13084,7 @@
             },
             "properties": {
                 "type": "Feature",
-                "properties.PCON24NM": "Bolton North East",
+                "PCON24NM": "Bolton North East",
                 "REGION": "North West",
                 "id": 47
             }
@@ -13252,7 +13252,7 @@
             },
             "properties": {
                 "type": "Feature",
-                "properties.PCON24NM": "Bolton South and Walkden",
+                "PCON24NM": "Bolton South and Walkden",
                 "REGION": "North West",
                 "id": 48
             }
@@ -13468,7 +13468,7 @@
             },
             "properties": {
                 "type": "Feature",
-                "properties.PCON24NM": "Bolton West",
+                "PCON24NM": "Bolton West",
                 "REGION": "North West",
                 "id": 49
             }
@@ -13572,7 +13572,7 @@
             },
             "properties": {
                 "type": "Feature",
-                "properties.PCON24NM": "Bootle",
+                "PCON24NM": "Bootle",
                 "REGION": "North West",
                 "id": 50
             }
@@ -14236,7 +14236,7 @@
             },
             "properties": {
                 "type": "Feature",
-                "properties.PCON24NM": "Boston and Skegness",
+                "PCON24NM": "Boston and Skegness",
                 "REGION": "East Midlands",
                 "id": 51
             }
@@ -14412,7 +14412,7 @@
             },
             "properties": {
                 "type": "Feature",
-                "properties.PCON24NM": "Bournemouth East",
+                "PCON24NM": "Bournemouth East",
                 "REGION": "South West",
                 "id": 52
             }
@@ -14524,7 +14524,7 @@
             },
             "properties": {
                 "type": "Feature",
-                "properties.PCON24NM": "Bournemouth West",
+                "PCON24NM": "Bournemouth West",
                 "REGION": "South West",
                 "id": 53
             }
@@ -14660,7 +14660,7 @@
             },
             "properties": {
                 "type": "Feature",
-                "properties.PCON24NM": "Bracknell",
+                "PCON24NM": "Bracknell",
                 "REGION": "South East",
                 "id": 54
             }
@@ -14816,7 +14816,7 @@
             },
             "properties": {
                 "type": "Feature",
-                "properties.PCON24NM": "Bradford East",
+                "PCON24NM": "Bradford East",
                 "REGION": "Yorkshire and the Humber",
                 "id": 55
             }
@@ -15060,7 +15060,7 @@
             },
             "properties": {
                 "type": "Feature",
-                "properties.PCON24NM": "Bradford South",
+                "PCON24NM": "Bradford South",
                 "REGION": "Yorkshire and the Humber",
                 "id": 56
             }
@@ -15248,7 +15248,7 @@
             },
             "properties": {
                 "type": "Feature",
-                "properties.PCON24NM": "Bradford West",
+                "PCON24NM": "Bradford West",
                 "REGION": "Yorkshire and the Humber",
                 "id": 57
             }
@@ -15864,8 +15864,8 @@
             },
             "properties": {
                 "type": "Feature",
-                "properties.PCON24NM": "Braintree",
-                "REGION": "Eastern",
+                "PCON24NM": "Braintree",
+                "REGION": "East",
                 "id": 58
             }
         },
@@ -16008,7 +16008,7 @@
             },
             "properties": {
                 "type": "Feature",
-                "properties.PCON24NM": "Brent East",
+                "PCON24NM": "Brent East",
                 "REGION": "London",
                 "id": 59
             }
@@ -16108,7 +16108,7 @@
             },
             "properties": {
                 "type": "Feature",
-                "properties.PCON24NM": "Brent West",
+                "PCON24NM": "Brent West",
                 "REGION": "London",
                 "id": 60
             }
@@ -16280,7 +16280,7 @@
             },
             "properties": {
                 "type": "Feature",
-                "properties.PCON24NM": "Brentford and Isleworth",
+                "PCON24NM": "Brentford and Isleworth",
                 "REGION": "London",
                 "id": 61
             }
@@ -16620,8 +16620,8 @@
             },
             "properties": {
                 "type": "Feature",
-                "properties.PCON24NM": "Brentwood and Ongar",
-                "REGION": "Eastern",
+                "PCON24NM": "Brentwood and Ongar",
+                "REGION": "East",
                 "id": 62
             }
         },
@@ -17278,7 +17278,7 @@
             },
             "properties": {
                 "type": "Feature",
-                "properties.PCON24NM": "Bridgwater",
+                "PCON24NM": "Bridgwater",
                 "REGION": "South West",
                 "id": 63
             }
@@ -18086,7 +18086,7 @@
             },
             "properties": {
                 "type": "Feature",
-                "properties.PCON24NM": "Bridlington and The Wolds",
+                "PCON24NM": "Bridlington and The Wolds",
                 "REGION": "Yorkshire and the Humber",
                 "id": 64
             }
@@ -18736,7 +18736,7 @@
             },
             "properties": {
                 "type": "Feature",
-                "properties.PCON24NM": "Brigg and Immingham",
+                "PCON24NM": "Brigg and Immingham",
                 "REGION": "Yorkshire and the Humber",
                 "id": 65
             }
@@ -18948,7 +18948,7 @@
             },
             "properties": {
                 "type": "Feature",
-                "properties.PCON24NM": "Brighton Kemptown and Peacehaven",
+                "PCON24NM": "Brighton Kemptown and Peacehaven",
                 "REGION": "South East",
                 "id": 66
             }
@@ -19084,7 +19084,7 @@
             },
             "properties": {
                 "type": "Feature",
-                "properties.PCON24NM": "Brighton Pavilion",
+                "PCON24NM": "Brighton Pavilion",
                 "REGION": "South East",
                 "id": 67
             }
@@ -19168,7 +19168,7 @@
             },
             "properties": {
                 "type": "Feature",
-                "properties.PCON24NM": "Bristol Central",
+                "PCON24NM": "Bristol Central",
                 "REGION": "South West",
                 "id": 68
             }
@@ -19292,7 +19292,7 @@
             },
             "properties": {
                 "type": "Feature",
-                "properties.PCON24NM": "Bristol East",
+                "PCON24NM": "Bristol East",
                 "REGION": "South West",
                 "id": 69
             }
@@ -19464,7 +19464,7 @@
             },
             "properties": {
                 "type": "Feature",
-                "properties.PCON24NM": "Bristol North East",
+                "PCON24NM": "Bristol North East",
                 "REGION": "South West",
                 "id": 70
             }
@@ -19660,7 +19660,7 @@
             },
             "properties": {
                 "type": "Feature",
-                "properties.PCON24NM": "Bristol North West",
+                "PCON24NM": "Bristol North West",
                 "REGION": "South West",
                 "id": 71
             }
@@ -19784,7 +19784,7 @@
             },
             "properties": {
                 "type": "Feature",
-                "properties.PCON24NM": "Bristol South",
+                "PCON24NM": "Bristol South",
                 "REGION": "South West",
                 "id": 72
             }
@@ -20844,8 +20844,8 @@
             },
             "properties": {
                 "type": "Feature",
-                "properties.PCON24NM": "Broadland and Fakenham",
-                "REGION": "Eastern",
+                "PCON24NM": "Broadland and Fakenham",
+                "REGION": "East",
                 "id": 73
             }
         },
@@ -21004,7 +21004,7 @@
             },
             "properties": {
                 "type": "Feature",
-                "properties.PCON24NM": "Bromley and Biggin Hill",
+                "PCON24NM": "Bromley and Biggin Hill",
                 "REGION": "London",
                 "id": 74
             }
@@ -21420,7 +21420,7 @@
             },
             "properties": {
                 "type": "Feature",
-                "properties.PCON24NM": "Bromsgrove",
+                "PCON24NM": "Bromsgrove",
                 "REGION": "West Midlands",
                 "id": 75
             }
@@ -21608,8 +21608,8 @@
             },
             "properties": {
                 "type": "Feature",
-                "properties.PCON24NM": "Broxbourne",
-                "REGION": "Eastern",
+                "PCON24NM": "Broxbourne",
+                "REGION": "East",
                 "id": 76
             }
         },
@@ -21876,7 +21876,7 @@
             },
             "properties": {
                 "type": "Feature",
-                "properties.PCON24NM": "Broxtowe",
+                "PCON24NM": "Broxtowe",
                 "REGION": "East Midlands",
                 "id": 77
             }
@@ -22360,7 +22360,7 @@
             },
             "properties": {
                 "type": "Feature",
-                "properties.PCON24NM": "Buckingham and Bletchley",
+                "PCON24NM": "Buckingham and Bletchley",
                 "REGION": "South East",
                 "id": 78
             }
@@ -22600,7 +22600,7 @@
             },
             "properties": {
                 "type": "Feature",
-                "properties.PCON24NM": "Burnley",
+                "PCON24NM": "Burnley",
                 "REGION": "North West",
                 "id": 79
             }
@@ -23252,7 +23252,7 @@
             },
             "properties": {
                 "type": "Feature",
-                "properties.PCON24NM": "Burton and Uttoxeter",
+                "PCON24NM": "Burton and Uttoxeter",
                 "REGION": "West Midlands",
                 "id": 80
             }
@@ -23484,7 +23484,7 @@
             },
             "properties": {
                 "type": "Feature",
-                "properties.PCON24NM": "Bury North",
+                "PCON24NM": "Bury North",
                 "REGION": "North West",
                 "id": 81
             }
@@ -23712,7 +23712,7 @@
             },
             "properties": {
                 "type": "Feature",
-                "properties.PCON24NM": "Bury South",
+                "PCON24NM": "Bury South",
                 "REGION": "North West",
                 "id": 82
             }
@@ -24296,8 +24296,8 @@
             },
             "properties": {
                 "type": "Feature",
-                "properties.PCON24NM": "Bury St Edmunds and Stowmarket",
-                "REGION": "Eastern",
+                "PCON24NM": "Bury St Edmunds and Stowmarket",
+                "REGION": "East",
                 "id": 83
             }
         },
@@ -24792,7 +24792,7 @@
             },
             "properties": {
                 "type": "Feature",
-                "properties.PCON24NM": "Calder Valley",
+                "PCON24NM": "Calder Valley",
                 "REGION": "Yorkshire and the Humber",
                 "id": 84
             }
@@ -25694,7 +25694,7 @@
             },
             "properties": {
                 "type": "Feature",
-                "properties.PCON24NM": "Camborne and Redruth",
+                "PCON24NM": "Camborne and Redruth",
                 "REGION": "South West",
                 "id": 85
             }
@@ -25846,8 +25846,8 @@
             },
             "properties": {
                 "type": "Feature",
-                "properties.PCON24NM": "Cambridge",
-                "REGION": "Eastern",
+                "PCON24NM": "Cambridge",
+                "REGION": "East",
                 "id": 86
             }
         },
@@ -26026,7 +26026,7 @@
             },
             "properties": {
                 "type": "Feature",
-                "properties.PCON24NM": "Cannock Chase",
+                "PCON24NM": "Cannock Chase",
                 "REGION": "West Midlands",
                 "id": 87
             }
@@ -26446,7 +26446,7 @@
             },
             "properties": {
                 "type": "Feature",
-                "properties.PCON24NM": "Canterbury",
+                "PCON24NM": "Canterbury",
                 "REGION": "South East",
                 "id": 88
             }
@@ -27358,7 +27358,7 @@
             },
             "properties": {
                 "type": "Feature",
-                "properties.PCON24NM": "Carlisle",
+                "PCON24NM": "Carlisle",
                 "REGION": "North West",
                 "id": 89
             }
@@ -27494,7 +27494,7 @@
             },
             "properties": {
                 "type": "Feature",
-                "properties.PCON24NM": "Carshalton and Wallington",
+                "PCON24NM": "Carshalton and Wallington",
                 "REGION": "London",
                 "id": 90
             }
@@ -27884,8 +27884,8 @@
             },
             "properties": {
                 "type": "Feature",
-                "properties.PCON24NM": "Castle Point",
-                "REGION": "Eastern",
+                "PCON24NM": "Castle Point",
+                "REGION": "East",
                 "id": 91
             }
         },
@@ -28992,7 +28992,7 @@
             },
             "properties": {
                 "type": "Feature",
-                "properties.PCON24NM": "Central Devon",
+                "PCON24NM": "Central Devon",
                 "REGION": "South West",
                 "id": 92
             }
@@ -29656,8 +29656,8 @@
             },
             "properties": {
                 "type": "Feature",
-                "properties.PCON24NM": "Central Suffolk and North Ipswich",
-                "REGION": "Eastern",
+                "PCON24NM": "Central Suffolk and North Ipswich",
+                "REGION": "East",
                 "id": 93
             }
         },
@@ -29884,7 +29884,7 @@
             },
             "properties": {
                 "type": "Feature",
-                "properties.PCON24NM": "Chatham and Aylesford",
+                "PCON24NM": "Chatham and Aylesford",
                 "REGION": "South East",
                 "id": 94
             }
@@ -30040,7 +30040,7 @@
             },
             "properties": {
                 "type": "Feature",
-                "properties.PCON24NM": "Cheadle",
+                "PCON24NM": "Cheadle",
                 "REGION": "North West",
                 "id": 95
             }
@@ -30188,8 +30188,8 @@
             },
             "properties": {
                 "type": "Feature",
-                "properties.PCON24NM": "Chelmsford",
-                "REGION": "Eastern",
+                "PCON24NM": "Chelmsford",
+                "REGION": "East",
                 "id": 96
             }
         },
@@ -30320,7 +30320,7 @@
             },
             "properties": {
                 "type": "Feature",
-                "properties.PCON24NM": "Chelsea and Fulham",
+                "PCON24NM": "Chelsea and Fulham",
                 "REGION": "London",
                 "id": 97
             }
@@ -30468,7 +30468,7 @@
             },
             "properties": {
                 "type": "Feature",
-                "properties.PCON24NM": "Cheltenham",
+                "PCON24NM": "Cheltenham",
                 "REGION": "South West",
                 "id": 98
             }
@@ -30860,7 +30860,7 @@
             },
             "properties": {
                 "type": "Feature",
-                "properties.PCON24NM": "Chesham and Amersham",
+                "PCON24NM": "Chesham and Amersham",
                 "REGION": "South East",
                 "id": 99
             }
@@ -31268,7 +31268,7 @@
             },
             "properties": {
                 "type": "Feature",
-                "properties.PCON24NM": "Chester North and Neston",
+                "PCON24NM": "Chester North and Neston",
                 "REGION": "North West",
                 "id": 100
             }
@@ -32092,7 +32092,7 @@
             },
             "properties": {
                 "type": "Feature",
-                "properties.PCON24NM": "Chester South and Eddisbury",
+                "PCON24NM": "Chester South and Eddisbury",
                 "REGION": "North West",
                 "id": 101
             }
@@ -32312,7 +32312,7 @@
             },
             "properties": {
                 "type": "Feature",
-                "properties.PCON24NM": "Chesterfield",
+                "PCON24NM": "Chesterfield",
                 "REGION": "East Midlands",
                 "id": 102
             }
@@ -33088,7 +33088,7 @@
             },
             "properties": {
                 "type": "Feature",
-                "properties.PCON24NM": "Chichester",
+                "PCON24NM": "Chichester",
                 "REGION": "South East",
                 "id": 103
             }
@@ -33196,7 +33196,7 @@
             },
             "properties": {
                 "type": "Feature",
-                "properties.PCON24NM": "Chingford and Woodford Green",
+                "PCON24NM": "Chingford and Woodford Green",
                 "REGION": "London",
                 "id": 104
             }
@@ -33676,7 +33676,7 @@
             },
             "properties": {
                 "type": "Feature",
-                "properties.PCON24NM": "Chippenham",
+                "PCON24NM": "Chippenham",
                 "REGION": "South West",
                 "id": 105
             }
@@ -33856,7 +33856,7 @@
             },
             "properties": {
                 "type": "Feature",
-                "properties.PCON24NM": "Chipping Barnet",
+                "PCON24NM": "Chipping Barnet",
                 "REGION": "London",
                 "id": 106
             }
@@ -34132,7 +34132,7 @@
             },
             "properties": {
                 "type": "Feature",
-                "properties.PCON24NM": "Chorley",
+                "PCON24NM": "Chorley",
                 "REGION": "North West",
                 "id": 107
             }
@@ -34496,7 +34496,7 @@
             },
             "properties": {
                 "type": "Feature",
-                "properties.PCON24NM": "Christchurch",
+                "PCON24NM": "Christchurch",
                 "REGION": "South West",
                 "id": 108
             }
@@ -34716,7 +34716,7 @@
             },
             "properties": {
                 "type": "Feature",
-                "properties.PCON24NM": "Cities of London and Westminster",
+                "PCON24NM": "Cities of London and Westminster",
                 "REGION": "London",
                 "id": 109
             }
@@ -35204,7 +35204,7 @@
             },
             "properties": {
                 "type": "Feature",
-                "properties.PCON24NM": "City of Durham",
+                "PCON24NM": "City of Durham",
                 "REGION": "North East",
                 "id": 110
             }
@@ -36054,8 +36054,8 @@
             },
             "properties": {
                 "type": "Feature",
-                "properties.PCON24NM": "Clacton",
-                "REGION": "Eastern",
+                "PCON24NM": "Clacton",
+                "REGION": "East",
                 "id": 111
             }
         },
@@ -36126,7 +36126,7 @@
             },
             "properties": {
                 "type": "Feature",
-                "properties.PCON24NM": "Clapham and Brixton Hill",
+                "PCON24NM": "Clapham and Brixton Hill",
                 "REGION": "London",
                 "id": 112
             }
@@ -36274,8 +36274,8 @@
             },
             "properties": {
                 "type": "Feature",
-                "properties.PCON24NM": "Colchester",
-                "REGION": "Eastern",
+                "PCON24NM": "Colchester",
+                "REGION": "East",
                 "id": 113
             }
         },
@@ -36510,7 +36510,7 @@
             },
             "properties": {
                 "type": "Feature",
-                "properties.PCON24NM": "Colne Valley",
+                "PCON24NM": "Colne Valley",
                 "REGION": "Yorkshire and the Humber",
                 "id": 114
             }
@@ -36874,7 +36874,7 @@
             },
             "properties": {
                 "type": "Feature",
-                "properties.PCON24NM": "Congleton",
+                "PCON24NM": "Congleton",
                 "REGION": "North West",
                 "id": 115
             }
@@ -37442,7 +37442,7 @@
             },
             "properties": {
                 "type": "Feature",
-                "properties.PCON24NM": "Corby and East Northamptonshire",
+                "PCON24NM": "Corby and East Northamptonshire",
                 "REGION": "East Midlands",
                 "id": 116
             }
@@ -37582,7 +37582,7 @@
             },
             "properties": {
                 "type": "Feature",
-                "properties.PCON24NM": "Coventry East",
+                "PCON24NM": "Coventry East",
                 "REGION": "West Midlands",
                 "id": 117
             }
@@ -37726,7 +37726,7 @@
             },
             "properties": {
                 "type": "Feature",
-                "properties.PCON24NM": "Coventry North West",
+                "PCON24NM": "Coventry North West",
                 "REGION": "West Midlands",
                 "id": 118
             }
@@ -37914,7 +37914,7 @@
             },
             "properties": {
                 "type": "Feature",
-                "properties.PCON24NM": "Coventry South",
+                "PCON24NM": "Coventry South",
                 "REGION": "West Midlands",
                 "id": 119
             }
@@ -38238,7 +38238,7 @@
             },
             "properties": {
                 "type": "Feature",
-                "properties.PCON24NM": "Cramlington and Killingworth",
+                "PCON24NM": "Cramlington and Killingworth",
                 "REGION": "North East",
                 "id": 120
             }
@@ -38378,7 +38378,7 @@
             },
             "properties": {
                 "type": "Feature",
-                "properties.PCON24NM": "Crawley",
+                "PCON24NM": "Crawley",
                 "REGION": "South East",
                 "id": 121
             }
@@ -38590,7 +38590,7 @@
             },
             "properties": {
                 "type": "Feature",
-                "properties.PCON24NM": "Crewe and Nantwich",
+                "PCON24NM": "Crewe and Nantwich",
                 "REGION": "North West",
                 "id": 122
             }
@@ -38738,7 +38738,7 @@
             },
             "properties": {
                 "type": "Feature",
-                "properties.PCON24NM": "Croydon East",
+                "PCON24NM": "Croydon East",
                 "REGION": "London",
                 "id": 123
             }
@@ -38926,7 +38926,7 @@
             },
             "properties": {
                 "type": "Feature",
-                "properties.PCON24NM": "Croydon South",
+                "PCON24NM": "Croydon South",
                 "REGION": "London",
                 "id": 124
             }
@@ -39022,7 +39022,7 @@
             },
             "properties": {
                 "type": "Feature",
-                "properties.PCON24NM": "Croydon West",
+                "PCON24NM": "Croydon West",
                 "REGION": "London",
                 "id": 125
             }
@@ -39214,7 +39214,7 @@
             },
             "properties": {
                 "type": "Feature",
-                "properties.PCON24NM": "Dagenham and Rainham",
+                "PCON24NM": "Dagenham and Rainham",
                 "REGION": "London",
                 "id": 126
             }
@@ -39510,7 +39510,7 @@
             },
             "properties": {
                 "type": "Feature",
-                "properties.PCON24NM": "Darlington",
+                "PCON24NM": "Darlington",
                 "REGION": "North East",
                 "id": 127
             }
@@ -39734,7 +39734,7 @@
             },
             "properties": {
                 "type": "Feature",
-                "properties.PCON24NM": "Dartford",
+                "PCON24NM": "Dartford",
                 "REGION": "South East",
                 "id": 128
             }
@@ -40382,7 +40382,7 @@
             },
             "properties": {
                 "type": "Feature",
-                "properties.PCON24NM": "Daventry",
+                "PCON24NM": "Daventry",
                 "REGION": "East Midlands",
                 "id": 129
             }
@@ -40530,7 +40530,7 @@
             },
             "properties": {
                 "type": "Feature",
-                "properties.PCON24NM": "Derby North",
+                "PCON24NM": "Derby North",
                 "REGION": "East Midlands",
                 "id": 130
             }
@@ -40662,7 +40662,7 @@
             },
             "properties": {
                 "type": "Feature",
-                "properties.PCON24NM": "Derby South",
+                "PCON24NM": "Derby South",
                 "REGION": "East Midlands",
                 "id": 131
             }
@@ -41654,7 +41654,7 @@
             },
             "properties": {
                 "type": "Feature",
-                "properties.PCON24NM": "Derbyshire Dales",
+                "PCON24NM": "Derbyshire Dales",
                 "REGION": "East Midlands",
                 "id": 132
             }
@@ -41894,7 +41894,7 @@
             },
             "properties": {
                 "type": "Feature",
-                "properties.PCON24NM": "Dewsbury and Batley",
+                "PCON24NM": "Dewsbury and Batley",
                 "REGION": "Yorkshire and the Humber",
                 "id": 133
             }
@@ -42358,7 +42358,7 @@
             },
             "properties": {
                 "type": "Feature",
-                "properties.PCON24NM": "Didcot and Wantage",
+                "PCON24NM": "Didcot and Wantage",
                 "REGION": "South East",
                 "id": 134
             }
@@ -42662,7 +42662,7 @@
             },
             "properties": {
                 "type": "Feature",
-                "properties.PCON24NM": "Doncaster Central",
+                "PCON24NM": "Doncaster Central",
                 "REGION": "Yorkshire and the Humber",
                 "id": 135
             }
@@ -43050,7 +43050,7 @@
             },
             "properties": {
                 "type": "Feature",
-                "properties.PCON24NM": "Doncaster East and the Isle of Axholme",
+                "PCON24NM": "Doncaster East and the Isle of Axholme",
                 "REGION": "Yorkshire and the Humber",
                 "id": 136
             }
@@ -43366,7 +43366,7 @@
             },
             "properties": {
                 "type": "Feature",
-                "properties.PCON24NM": "Doncaster North",
+                "PCON24NM": "Doncaster North",
                 "REGION": "Yorkshire and the Humber",
                 "id": 137
             }
@@ -43762,7 +43762,7 @@
             },
             "properties": {
                 "type": "Feature",
-                "properties.PCON24NM": "Dorking and Horley",
+                "PCON24NM": "Dorking and Horley",
                 "REGION": "South East",
                 "id": 138
             }
@@ -44258,7 +44258,7 @@
             },
             "properties": {
                 "type": "Feature",
-                "properties.PCON24NM": "Dover and Deal",
+                "PCON24NM": "Dover and Deal",
                 "REGION": "South East",
                 "id": 139
             }
@@ -45002,7 +45002,7 @@
             },
             "properties": {
                 "type": "Feature",
-                "properties.PCON24NM": "Droitwich and Evesham",
+                "PCON24NM": "Droitwich and Evesham",
                 "REGION": "West Midlands",
                 "id": 140
             }
@@ -45162,7 +45162,7 @@
             },
             "properties": {
                 "type": "Feature",
-                "properties.PCON24NM": "Dudley",
+                "PCON24NM": "Dudley",
                 "REGION": "West Midlands",
                 "id": 141
             }
@@ -45266,7 +45266,7 @@
             },
             "properties": {
                 "type": "Feature",
-                "properties.PCON24NM": "Dulwich and West Norwood",
+                "PCON24NM": "Dulwich and West Norwood",
                 "REGION": "London",
                 "id": 142
             }
@@ -45466,8 +45466,8 @@
             },
             "properties": {
                 "type": "Feature",
-                "properties.PCON24NM": "Dunstable and Leighton Buzzard",
-                "REGION": "Eastern",
+                "PCON24NM": "Dunstable and Leighton Buzzard",
+                "REGION": "East",
                 "id": 143
             }
         },
@@ -45582,7 +45582,7 @@
             },
             "properties": {
                 "type": "Feature",
-                "properties.PCON24NM": "Ealing Central and Acton",
+                "PCON24NM": "Ealing Central and Acton",
                 "REGION": "London",
                 "id": 144
             }
@@ -45698,7 +45698,7 @@
             },
             "properties": {
                 "type": "Feature",
-                "properties.PCON24NM": "Ealing North",
+                "PCON24NM": "Ealing North",
                 "REGION": "London",
                 "id": 145
             }
@@ -45814,7 +45814,7 @@
             },
             "properties": {
                 "type": "Feature",
-                "properties.PCON24NM": "Ealing Southall",
+                "PCON24NM": "Ealing Southall",
                 "REGION": "London",
                 "id": 146
             }
@@ -45994,7 +45994,7 @@
             },
             "properties": {
                 "type": "Feature",
-                "properties.PCON24NM": "Earley and Woodley",
+                "PCON24NM": "Earley and Woodley",
                 "REGION": "South East",
                 "id": 147
             }
@@ -46322,7 +46322,7 @@
             },
             "properties": {
                 "type": "Feature",
-                "properties.PCON24NM": "Easington",
+                "PCON24NM": "Easington",
                 "REGION": "North East",
                 "id": 148
             }
@@ -46950,7 +46950,7 @@
             },
             "properties": {
                 "type": "Feature",
-                "properties.PCON24NM": "East Grinstead and Uckfield",
+                "PCON24NM": "East Grinstead and Uckfield",
                 "REGION": "South East",
                 "id": 149
             }
@@ -47030,7 +47030,7 @@
             },
             "properties": {
                 "type": "Feature",
-                "properties.PCON24NM": "East Ham",
+                "PCON24NM": "East Ham",
                 "REGION": "London",
                 "id": 150
             }
@@ -47602,7 +47602,7 @@
             },
             "properties": {
                 "type": "Feature",
-                "properties.PCON24NM": "East Hampshire",
+                "PCON24NM": "East Hampshire",
                 "REGION": "South East",
                 "id": 151
             }
@@ -47946,7 +47946,7 @@
             },
             "properties": {
                 "type": "Feature",
-                "properties.PCON24NM": "East Surrey",
+                "PCON24NM": "East Surrey",
                 "REGION": "South East",
                 "id": 152
             }
@@ -48162,7 +48162,7 @@
             },
             "properties": {
                 "type": "Feature",
-                "properties.PCON24NM": "East Thanet",
+                "PCON24NM": "East Thanet",
                 "REGION": "South East",
                 "id": 153
             }
@@ -48870,7 +48870,7 @@
             },
             "properties": {
                 "type": "Feature",
-                "properties.PCON24NM": "East Wiltshire",
+                "PCON24NM": "East Wiltshire",
                 "REGION": "South West",
                 "id": 154
             }
@@ -49106,7 +49106,7 @@
             },
             "properties": {
                 "type": "Feature",
-                "properties.PCON24NM": "East Worthing and Shoreham",
+                "PCON24NM": "East Worthing and Shoreham",
                 "REGION": "South East",
                 "id": 155
             }
@@ -49274,7 +49274,7 @@
             },
             "properties": {
                 "type": "Feature",
-                "properties.PCON24NM": "Eastbourne",
+                "PCON24NM": "Eastbourne",
                 "REGION": "South East",
                 "id": 156
             }
@@ -49474,7 +49474,7 @@
             },
             "properties": {
                 "type": "Feature",
-                "properties.PCON24NM": "Eastleigh",
+                "PCON24NM": "Eastleigh",
                 "REGION": "South East",
                 "id": 157
             }
@@ -49602,7 +49602,7 @@
             },
             "properties": {
                 "type": "Feature",
-                "properties.PCON24NM": "Edmonton and Winchmore Hill",
+                "PCON24NM": "Edmonton and Winchmore Hill",
                 "REGION": "London",
                 "id": 158
             }
@@ -49762,7 +49762,7 @@
             },
             "properties": {
                 "type": "Feature",
-                "properties.PCON24NM": "Ellesmere Port and Bromborough",
+                "PCON24NM": "Ellesmere Port and Bromborough",
                 "REGION": "North West",
                 "id": 159
             }
@@ -49934,7 +49934,7 @@
             },
             "properties": {
                 "type": "Feature",
-                "properties.PCON24NM": "Eltham and Chislehurst",
+                "PCON24NM": "Eltham and Chislehurst",
                 "REGION": "London",
                 "id": 160
             }
@@ -50564,8 +50564,8 @@
             },
             "properties": {
                 "type": "Feature",
-                "properties.PCON24NM": "Ely and East Cambridgeshire",
-                "REGION": "Eastern",
+                "PCON24NM": "Ely and East Cambridgeshire",
+                "REGION": "East",
                 "id": 161
             }
         },
@@ -50724,7 +50724,7 @@
             },
             "properties": {
                 "type": "Feature",
-                "properties.PCON24NM": "Enfield North",
+                "PCON24NM": "Enfield North",
                 "REGION": "London",
                 "id": 162
             }
@@ -50996,8 +50996,8 @@
             },
             "properties": {
                 "type": "Feature",
-                "properties.PCON24NM": "Epping Forest",
-                "REGION": "Eastern",
+                "PCON24NM": "Epping Forest",
+                "REGION": "East",
                 "id": 163
             }
         },
@@ -51148,7 +51148,7 @@
             },
             "properties": {
                 "type": "Feature",
-                "properties.PCON24NM": "Epsom and Ewell",
+                "PCON24NM": "Epsom and Ewell",
                 "REGION": "South East",
                 "id": 164
             }
@@ -51400,7 +51400,7 @@
             },
             "properties": {
                 "type": "Feature",
-                "properties.PCON24NM": "Erewash",
+                "PCON24NM": "Erewash",
                 "REGION": "East Midlands",
                 "id": 165
             }
@@ -51588,7 +51588,7 @@
             },
             "properties": {
                 "type": "Feature",
-                "properties.PCON24NM": "Erith and Thamesmead",
+                "PCON24NM": "Erith and Thamesmead",
                 "REGION": "London",
                 "id": 166
             }
@@ -51688,7 +51688,7 @@
             },
             "properties": {
                 "type": "Feature",
-                "properties.PCON24NM": "Esher and Walton",
+                "PCON24NM": "Esher and Walton",
                 "REGION": "South East",
                 "id": 167
             }
@@ -51840,7 +51840,7 @@
             },
             "properties": {
                 "type": "Feature",
-                "properties.PCON24NM": "Exeter",
+                "PCON24NM": "Exeter",
                 "REGION": "South West",
                 "id": 168
             }
@@ -52468,7 +52468,7 @@
             },
             "properties": {
                 "type": "Feature",
-                "properties.PCON24NM": "Exmouth and Exeter East",
+                "PCON24NM": "Exmouth and Exeter East",
                 "REGION": "South West",
                 "id": 169
             }
@@ -52824,7 +52824,7 @@
             },
             "properties": {
                 "type": "Feature",
-                "properties.PCON24NM": "Fareham and Waterlooville",
+                "PCON24NM": "Fareham and Waterlooville",
                 "REGION": "South East",
                 "id": 170
             }
@@ -53148,7 +53148,7 @@
             },
             "properties": {
                 "type": "Feature",
-                "properties.PCON24NM": "Farnham and Bordon",
+                "PCON24NM": "Farnham and Bordon",
                 "REGION": "South East",
                 "id": 171
             }
@@ -53688,7 +53688,7 @@
             },
             "properties": {
                 "type": "Feature",
-                "properties.PCON24NM": "Faversham and Mid Kent",
+                "PCON24NM": "Faversham and Mid Kent",
                 "REGION": "South East",
                 "id": 172
             }
@@ -53848,7 +53848,7 @@
             },
             "properties": {
                 "type": "Feature",
-                "properties.PCON24NM": "Feltham and Heston",
+                "PCON24NM": "Feltham and Heston",
                 "REGION": "London",
                 "id": 173
             }
@@ -54040,7 +54040,7 @@
             },
             "properties": {
                 "type": "Feature",
-                "properties.PCON24NM": "Filton and Bradley Stoke",
+                "PCON24NM": "Filton and Bradley Stoke",
                 "REGION": "South West",
                 "id": 174
             }
@@ -54152,7 +54152,7 @@
             },
             "properties": {
                 "type": "Feature",
-                "properties.PCON24NM": "Finchley and Golders Green",
+                "PCON24NM": "Finchley and Golders Green",
                 "REGION": "London",
                 "id": 175
             }
@@ -54596,7 +54596,7 @@
             },
             "properties": {
                 "type": "Feature",
-                "properties.PCON24NM": "Folkestone and Hythe",
+                "PCON24NM": "Folkestone and Hythe",
                 "REGION": "South East",
                 "id": 176
             }
@@ -55352,7 +55352,7 @@
             },
             "properties": {
                 "type": "Feature",
-                "properties.PCON24NM": "Forest of Dean",
+                "PCON24NM": "Forest of Dean",
                 "REGION": "South West",
                 "id": 177
             }
@@ -55984,7 +55984,7 @@
             },
             "properties": {
                 "type": "Feature",
-                "properties.PCON24NM": "Frome and East Somerset",
+                "PCON24NM": "Frome and East Somerset",
                 "REGION": "South West",
                 "id": 178
             }
@@ -56340,7 +56340,7 @@
             },
             "properties": {
                 "type": "Feature",
-                "properties.PCON24NM": "Fylde",
+                "PCON24NM": "Fylde",
                 "REGION": "North West",
                 "id": 179
             }
@@ -57064,7 +57064,7 @@
             },
             "properties": {
                 "type": "Feature",
-                "properties.PCON24NM": "Gainsborough",
+                "PCON24NM": "Gainsborough",
                 "REGION": "East Midlands",
                 "id": 180
             }
@@ -57284,7 +57284,7 @@
             },
             "properties": {
                 "type": "Feature",
-                "properties.PCON24NM": "Gateshead Central and Whickham",
+                "PCON24NM": "Gateshead Central and Whickham",
                 "REGION": "North East",
                 "id": 181
             }
@@ -57472,7 +57472,7 @@
             },
             "properties": {
                 "type": "Feature",
-                "properties.PCON24NM": "Gedling",
+                "PCON24NM": "Gedling",
                 "REGION": "East Midlands",
                 "id": 182
             }
@@ -57686,7 +57686,7 @@
             },
             "properties": {
                 "type": "Feature",
-                "properties.PCON24NM": "Gillingham and Rainham",
+                "PCON24NM": "Gillingham and Rainham",
                 "REGION": "South East",
                 "id": 183
             }
@@ -58362,7 +58362,7 @@
             },
             "properties": {
                 "type": "Feature",
-                "properties.PCON24NM": "Glastonbury and Somerton",
+                "PCON24NM": "Glastonbury and Somerton",
                 "REGION": "South West",
                 "id": 184
             }
@@ -58486,7 +58486,7 @@
             },
             "properties": {
                 "type": "Feature",
-                "properties.PCON24NM": "Gloucester",
+                "PCON24NM": "Gloucester",
                 "REGION": "South West",
                 "id": 185
             }
@@ -58874,7 +58874,7 @@
             },
             "properties": {
                 "type": "Feature",
-                "properties.PCON24NM": "Godalming and Ash",
+                "PCON24NM": "Godalming and Ash",
                 "REGION": "South East",
                 "id": 186
             }
@@ -59654,7 +59654,7 @@
             },
             "properties": {
                 "type": "Feature",
-                "properties.PCON24NM": "Goole and Pocklington",
+                "PCON24NM": "Goole and Pocklington",
                 "REGION": "Yorkshire and the Humber",
                 "id": 187
             }
@@ -59830,7 +59830,7 @@
             },
             "properties": {
                 "type": "Feature",
-                "properties.PCON24NM": "Gorton and Denton",
+                "PCON24NM": "Gorton and Denton",
                 "REGION": "North West",
                 "id": 188
             }
@@ -60102,7 +60102,7 @@
             },
             "properties": {
                 "type": "Feature",
-                "properties.PCON24NM": "Gosport",
+                "PCON24NM": "Gosport",
                 "REGION": "South East",
                 "id": 189
             }
@@ -60518,7 +60518,7 @@
             },
             "properties": {
                 "type": "Feature",
-                "properties.PCON24NM": "Grantham and Bourne",
+                "PCON24NM": "Grantham and Bourne",
                 "REGION": "East Midlands",
                 "id": 190
             }
@@ -60762,7 +60762,7 @@
             },
             "properties": {
                 "type": "Feature",
-                "properties.PCON24NM": "Gravesham",
+                "PCON24NM": "Gravesham",
                 "REGION": "South East",
                 "id": 191
             }
@@ -60934,7 +60934,7 @@
             },
             "properties": {
                 "type": "Feature",
-                "properties.PCON24NM": "Great Grimsby and Cleethorpes",
+                "PCON24NM": "Great Grimsby and Cleethorpes",
                 "REGION": "Yorkshire and the Humber",
                 "id": 192
             }
@@ -61428,8 +61428,8 @@
             },
             "properties": {
                 "type": "Feature",
-                "properties.PCON24NM": "Great Yarmouth",
-                "REGION": "Eastern",
+                "PCON24NM": "Great Yarmouth",
+                "REGION": "East",
                 "id": 193
             }
         },
@@ -61602,7 +61602,7 @@
             },
             "properties": {
                 "type": "Feature",
-                "properties.PCON24NM": "Greenwich and Woolwich",
+                "PCON24NM": "Greenwich and Woolwich",
                 "REGION": "London",
                 "id": 194
             }
@@ -61890,7 +61890,7 @@
             },
             "properties": {
                 "type": "Feature",
-                "properties.PCON24NM": "Guildford",
+                "PCON24NM": "Guildford",
                 "REGION": "South East",
                 "id": 195
             }
@@ -61962,7 +61962,7 @@
             },
             "properties": {
                 "type": "Feature",
-                "properties.PCON24NM": "Hackney North and Stoke Newington",
+                "PCON24NM": "Hackney North and Stoke Newington",
                 "REGION": "London",
                 "id": 196
             }
@@ -62070,7 +62070,7 @@
             },
             "properties": {
                 "type": "Feature",
-                "properties.PCON24NM": "Hackney South and Shoreditch",
+                "PCON24NM": "Hackney South and Shoreditch",
                 "REGION": "London",
                 "id": 197
             }
@@ -62226,7 +62226,7 @@
             },
             "properties": {
                 "type": "Feature",
-                "properties.PCON24NM": "Halesowen",
+                "PCON24NM": "Halesowen",
                 "REGION": "West Midlands",
                 "id": 198
             }
@@ -62498,7 +62498,7 @@
             },
             "properties": {
                 "type": "Feature",
-                "properties.PCON24NM": "Halifax",
+                "PCON24NM": "Halifax",
                 "REGION": "Yorkshire and the Humber",
                 "id": 199
             }
@@ -62886,7 +62886,7 @@
             },
             "properties": {
                 "type": "Feature",
-                "properties.PCON24NM": "Hamble Valley",
+                "PCON24NM": "Hamble Valley",
                 "REGION": "South East",
                 "id": 200
             }
@@ -63038,7 +63038,7 @@
             },
             "properties": {
                 "type": "Feature",
-                "properties.PCON24NM": "Hammersmith and Chiswick",
+                "PCON24NM": "Hammersmith and Chiswick",
                 "REGION": "London",
                 "id": 201
             }
@@ -63150,7 +63150,7 @@
             },
             "properties": {
                 "type": "Feature",
-                "properties.PCON24NM": "Hampstead and Highgate",
+                "PCON24NM": "Hampstead and Highgate",
                 "REGION": "London",
                 "id": 202
             }
@@ -63502,7 +63502,7 @@
             },
             "properties": {
                 "type": "Feature",
-                "properties.PCON24NM": "Harborough, Oadby and Wigston",
+                "PCON24NM": "Harborough, Oadby and Wigston",
                 "REGION": "East Midlands",
                 "id": 203
             }
@@ -63874,8 +63874,8 @@
             },
             "properties": {
                 "type": "Feature",
-                "properties.PCON24NM": "Harlow",
-                "REGION": "Eastern",
+                "PCON24NM": "Harlow",
+                "REGION": "East",
                 "id": 204
             }
         },
@@ -64354,8 +64354,8 @@
             },
             "properties": {
                 "type": "Feature",
-                "properties.PCON24NM": "Harpenden and Berkhamsted",
-                "REGION": "Eastern",
+                "PCON24NM": "Harpenden and Berkhamsted",
+                "REGION": "East",
                 "id": 205
             }
         },
@@ -64710,7 +64710,7 @@
             },
             "properties": {
                 "type": "Feature",
-                "properties.PCON24NM": "Harrogate and Knaresborough",
+                "PCON24NM": "Harrogate and Knaresborough",
                 "REGION": "Yorkshire and the Humber",
                 "id": 206
             }
@@ -64826,7 +64826,7 @@
             },
             "properties": {
                 "type": "Feature",
-                "properties.PCON24NM": "Harrow East",
+                "PCON24NM": "Harrow East",
                 "REGION": "London",
                 "id": 207
             }
@@ -64950,7 +64950,7 @@
             },
             "properties": {
                 "type": "Feature",
-                "properties.PCON24NM": "Harrow West",
+                "PCON24NM": "Harrow West",
                 "REGION": "London",
                 "id": 208
             }
@@ -65278,7 +65278,7 @@
             },
             "properties": {
                 "type": "Feature",
-                "properties.PCON24NM": "Hartlepool",
+                "PCON24NM": "Hartlepool",
                 "REGION": "North East",
                 "id": 209
             }
@@ -66268,8 +66268,8 @@
             },
             "properties": {
                 "type": "Feature",
-                "properties.PCON24NM": "Harwich and North Essex",
-                "REGION": "Eastern",
+                "PCON24NM": "Harwich and North Essex",
+                "REGION": "East",
                 "id": 210
             }
         },
@@ -66620,7 +66620,7 @@
             },
             "properties": {
                 "type": "Feature",
-                "properties.PCON24NM": "Hastings and Rye",
+                "PCON24NM": "Hastings and Rye",
                 "REGION": "South East",
                 "id": 211
             }
@@ -67102,7 +67102,7 @@
             },
             "properties": {
                 "type": "Feature",
-                "properties.PCON24NM": "Havant",
+                "PCON24NM": "Havant",
                 "REGION": "South East",
                 "id": 212
             }
@@ -67230,7 +67230,7 @@
             },
             "properties": {
                 "type": "Feature",
-                "properties.PCON24NM": "Hayes and Harlington",
+                "PCON24NM": "Hayes and Harlington",
                 "REGION": "London",
                 "id": 213
             }
@@ -67422,7 +67422,7 @@
             },
             "properties": {
                 "type": "Feature",
-                "properties.PCON24NM": "Hazel Grove",
+                "PCON24NM": "Hazel Grove",
                 "REGION": "North West",
                 "id": 214
             }
@@ -67614,8 +67614,8 @@
             },
             "properties": {
                 "type": "Feature",
-                "properties.PCON24NM": "Hemel Hempstead",
-                "REGION": "Eastern",
+                "PCON24NM": "Hemel Hempstead",
+                "REGION": "East",
                 "id": 215
             }
         },
@@ -67738,7 +67738,7 @@
             },
             "properties": {
                 "type": "Feature",
-                "properties.PCON24NM": "Hendon",
+                "PCON24NM": "Hendon",
                 "REGION": "London",
                 "id": 216
             }
@@ -68362,7 +68362,7 @@
             },
             "properties": {
                 "type": "Feature",
-                "properties.PCON24NM": "Henley and Thame",
+                "PCON24NM": "Henley and Thame",
                 "REGION": "South East",
                 "id": 217
             }
@@ -69142,7 +69142,7 @@
             },
             "properties": {
                 "type": "Feature",
-                "properties.PCON24NM": "Hereford and South Herefordshire",
+                "PCON24NM": "Hereford and South Herefordshire",
                 "REGION": "West Midlands",
                 "id": 218
             }
@@ -69542,7 +69542,7 @@
             },
             "properties": {
                 "type": "Feature",
-                "properties.PCON24NM": "Herne Bay and Sandwich",
+                "PCON24NM": "Herne Bay and Sandwich",
                 "REGION": "South East",
                 "id": 219
             }
@@ -69882,8 +69882,8 @@
             },
             "properties": {
                 "type": "Feature",
-                "properties.PCON24NM": "Hertford and Stortford",
-                "REGION": "Eastern",
+                "PCON24NM": "Hertford and Stortford",
+                "REGION": "East",
                 "id": 220
             }
         },
@@ -70194,8 +70194,8 @@
             },
             "properties": {
                 "type": "Feature",
-                "properties.PCON24NM": "Hertsmere",
-                "REGION": "Eastern",
+                "PCON24NM": "Hertsmere",
+                "REGION": "East",
                 "id": 221
             }
         },
@@ -71558,7 +71558,7 @@
             },
             "properties": {
                 "type": "Feature",
-                "properties.PCON24NM": "Hexham",
+                "PCON24NM": "Hexham",
                 "REGION": "North East",
                 "id": 222
             }
@@ -71778,7 +71778,7 @@
             },
             "properties": {
                 "type": "Feature",
-                "properties.PCON24NM": "Heywood and Middleton North",
+                "PCON24NM": "Heywood and Middleton North",
                 "REGION": "North West",
                 "id": 223
             }
@@ -72374,7 +72374,7 @@
             },
             "properties": {
                 "type": "Feature",
-                "properties.PCON24NM": "High Peak",
+                "PCON24NM": "High Peak",
                 "REGION": "East Midlands",
                 "id": 224
             }
@@ -72742,7 +72742,7 @@
             },
             "properties": {
                 "type": "Feature",
-                "properties.PCON24NM": "Hinckley and Bosworth",
+                "PCON24NM": "Hinckley and Bosworth",
                 "REGION": "East Midlands",
                 "id": 225
             }
@@ -73166,8 +73166,8 @@
             },
             "properties": {
                 "type": "Feature",
-                "properties.PCON24NM": "Hitchin",
-                "REGION": "Eastern",
+                "PCON24NM": "Hitchin",
+                "REGION": "East",
                 "id": 226
             }
         },
@@ -73238,7 +73238,7 @@
             },
             "properties": {
                 "type": "Feature",
-                "properties.PCON24NM": "Holborn and St Pancras",
+                "PCON24NM": "Holborn and St Pancras",
                 "REGION": "London",
                 "id": 227
             }
@@ -73802,7 +73802,7 @@
             },
             "properties": {
                 "type": "Feature",
-                "properties.PCON24NM": "Honiton and Sidmouth",
+                "PCON24NM": "Honiton and Sidmouth",
                 "REGION": "South West",
                 "id": 228
             }
@@ -73978,7 +73978,7 @@
             },
             "properties": {
                 "type": "Feature",
-                "properties.PCON24NM": "Hornchurch and Upminster",
+                "PCON24NM": "Hornchurch and Upminster",
                 "REGION": "London",
                 "id": 229
             }
@@ -74086,7 +74086,7 @@
             },
             "properties": {
                 "type": "Feature",
-                "properties.PCON24NM": "Hornsey and Friern Barnet",
+                "PCON24NM": "Hornsey and Friern Barnet",
                 "REGION": "London",
                 "id": 230
             }
@@ -74502,7 +74502,7 @@
             },
             "properties": {
                 "type": "Feature",
-                "properties.PCON24NM": "Horsham",
+                "PCON24NM": "Horsham",
                 "REGION": "South East",
                 "id": 231
             }
@@ -74686,7 +74686,7 @@
             },
             "properties": {
                 "type": "Feature",
-                "properties.PCON24NM": "Houghton and Sunderland South",
+                "PCON24NM": "Houghton and Sunderland South",
                 "REGION": "North East",
                 "id": 232
             }
@@ -74794,7 +74794,7 @@
             },
             "properties": {
                 "type": "Feature",
-                "properties.PCON24NM": "Hove and Portslade",
+                "PCON24NM": "Hove and Portslade",
                 "REGION": "South East",
                 "id": 233
             }
@@ -74942,7 +74942,7 @@
             },
             "properties": {
                 "type": "Feature",
-                "properties.PCON24NM": "Huddersfield",
+                "PCON24NM": "Huddersfield",
                 "REGION": "Yorkshire and the Humber",
                 "id": 234
             }
@@ -75430,8 +75430,8 @@
             },
             "properties": {
                 "type": "Feature",
-                "properties.PCON24NM": "Huntingdon",
-                "REGION": "Eastern",
+                "PCON24NM": "Huntingdon",
+                "REGION": "East",
                 "id": 235
             }
         },
@@ -75626,7 +75626,7 @@
             },
             "properties": {
                 "type": "Feature",
-                "properties.PCON24NM": "Hyndburn",
+                "PCON24NM": "Hyndburn",
                 "REGION": "North West",
                 "id": 236
             }
@@ -75742,7 +75742,7 @@
             },
             "properties": {
                 "type": "Feature",
-                "properties.PCON24NM": "Ilford North",
+                "PCON24NM": "Ilford North",
                 "REGION": "London",
                 "id": 237
             }
@@ -75858,7 +75858,7 @@
             },
             "properties": {
                 "type": "Feature",
-                "properties.PCON24NM": "Ilford South",
+                "PCON24NM": "Ilford South",
                 "REGION": "London",
                 "id": 238
             }
@@ -76038,8 +76038,8 @@
             },
             "properties": {
                 "type": "Feature",
-                "properties.PCON24NM": "Ipswich",
-                "REGION": "Eastern",
+                "PCON24NM": "Ipswich",
+                "REGION": "East",
                 "id": 239
             }
         },
@@ -76454,7 +76454,7 @@
             },
             "properties": {
                 "type": "Feature",
-                "properties.PCON24NM": "Isle of Wight East",
+                "PCON24NM": "Isle of Wight East",
                 "REGION": "South East",
                 "id": 240
             }
@@ -77262,7 +77262,7 @@
             },
             "properties": {
                 "type": "Feature",
-                "properties.PCON24NM": "Isle of Wight West",
+                "PCON24NM": "Isle of Wight West",
                 "REGION": "South East",
                 "id": 241
             }
@@ -77330,7 +77330,7 @@
             },
             "properties": {
                 "type": "Feature",
-                "properties.PCON24NM": "Islington North",
+                "PCON24NM": "Islington North",
                 "REGION": "London",
                 "id": 242
             }
@@ -77406,7 +77406,7 @@
             },
             "properties": {
                 "type": "Feature",
-                "properties.PCON24NM": "Islington South and Finsbury",
+                "PCON24NM": "Islington South and Finsbury",
                 "REGION": "London",
                 "id": 243
             }
@@ -77578,7 +77578,7 @@
             },
             "properties": {
                 "type": "Feature",
-                "properties.PCON24NM": "Jarrow and Gateshead East",
+                "PCON24NM": "Jarrow and Gateshead East",
                 "REGION": "North East",
                 "id": 244
             }
@@ -77894,7 +77894,7 @@
             },
             "properties": {
                 "type": "Feature",
-                "properties.PCON24NM": "Keighley and Ilkley",
+                "PCON24NM": "Keighley and Ilkley",
                 "REGION": "Yorkshire and the Humber",
                 "id": 245
             }
@@ -78896,7 +78896,7 @@
             },
             "properties": {
                 "type": "Feature",
-                "properties.PCON24NM": "Kenilworth and Southam",
+                "PCON24NM": "Kenilworth and Southam",
                 "REGION": "West Midlands",
                 "id": 246
             }
@@ -79000,7 +79000,7 @@
             },
             "properties": {
                 "type": "Feature",
-                "properties.PCON24NM": "Kensington and Bayswater",
+                "PCON24NM": "Kensington and Bayswater",
                 "REGION": "London",
                 "id": 247
             }
@@ -79320,7 +79320,7 @@
             },
             "properties": {
                 "type": "Feature",
-                "properties.PCON24NM": "Kettering",
+                "PCON24NM": "Kettering",
                 "REGION": "East Midlands",
                 "id": 248
             }
@@ -79448,7 +79448,7 @@
             },
             "properties": {
                 "type": "Feature",
-                "properties.PCON24NM": "Kingston and Surbiton",
+                "PCON24NM": "Kingston and Surbiton",
                 "REGION": "London",
                 "id": 249
             }
@@ -79596,7 +79596,7 @@
             },
             "properties": {
                 "type": "Feature",
-                "properties.PCON24NM": "Kingston upon Hull East",
+                "PCON24NM": "Kingston upon Hull East",
                 "REGION": "Yorkshire and the Humber",
                 "id": 250
             }
@@ -79740,7 +79740,7 @@
             },
             "properties": {
                 "type": "Feature",
-                "properties.PCON24NM": "Kingston upon Hull North and Cottingham",
+                "PCON24NM": "Kingston upon Hull North and Cottingham",
                 "REGION": "Yorkshire and the Humber",
                 "id": 251
             }
@@ -79914,7 +79914,7 @@
             },
             "properties": {
                 "type": "Feature",
-                "properties.PCON24NM": "Kingston upon Hull West and Haltemprice",
+                "PCON24NM": "Kingston upon Hull West and Haltemprice",
                 "REGION": "Yorkshire and the Humber",
                 "id": 252
             }
@@ -80298,7 +80298,7 @@
             },
             "properties": {
                 "type": "Feature",
-                "properties.PCON24NM": "Kingswinford and South Staffordshire",
+                "PCON24NM": "Kingswinford and South Staffordshire",
                 "REGION": "West Midlands",
                 "id": 253
             }
@@ -80514,7 +80514,7 @@
             },
             "properties": {
                 "type": "Feature",
-                "properties.PCON24NM": "Knowsley",
+                "PCON24NM": "Knowsley",
                 "REGION": "North West",
                 "id": 254
             }
@@ -81434,7 +81434,7 @@
             },
             "properties": {
                 "type": "Feature",
-                "properties.PCON24NM": "Lancaster and Wyre",
+                "PCON24NM": "Lancaster and Wyre",
                 "REGION": "North West",
                 "id": 255
             }
@@ -81554,7 +81554,7 @@
             },
             "properties": {
                 "type": "Feature",
-                "properties.PCON24NM": "Leeds Central and Headingley",
+                "PCON24NM": "Leeds Central and Headingley",
                 "REGION": "Yorkshire and the Humber",
                 "id": 256
             }
@@ -81802,7 +81802,7 @@
             },
             "properties": {
                 "type": "Feature",
-                "properties.PCON24NM": "Leeds East",
+                "PCON24NM": "Leeds East",
                 "REGION": "Yorkshire and the Humber",
                 "id": 257
             }
@@ -81926,7 +81926,7 @@
             },
             "properties": {
                 "type": "Feature",
-                "properties.PCON24NM": "Leeds North East",
+                "PCON24NM": "Leeds North East",
                 "REGION": "Yorkshire and the Humber",
                 "id": 258
             }
@@ -82214,7 +82214,7 @@
             },
             "properties": {
                 "type": "Feature",
-                "properties.PCON24NM": "Leeds North West",
+                "PCON24NM": "Leeds North West",
                 "REGION": "Yorkshire and the Humber",
                 "id": 259
             }
@@ -82366,7 +82366,7 @@
             },
             "properties": {
                 "type": "Feature",
-                "properties.PCON24NM": "Leeds South",
+                "PCON24NM": "Leeds South",
                 "REGION": "Yorkshire and the Humber",
                 "id": 260
             }
@@ -82570,7 +82570,7 @@
             },
             "properties": {
                 "type": "Feature",
-                "properties.PCON24NM": "Leeds South West and Morley",
+                "PCON24NM": "Leeds South West and Morley",
                 "REGION": "Yorkshire and the Humber",
                 "id": 261
             }
@@ -82678,7 +82678,7 @@
             },
             "properties": {
                 "type": "Feature",
-                "properties.PCON24NM": "Leeds West and Pudsey",
+                "PCON24NM": "Leeds West and Pudsey",
                 "REGION": "Yorkshire and the Humber",
                 "id": 262
             }
@@ -82786,7 +82786,7 @@
             },
             "properties": {
                 "type": "Feature",
-                "properties.PCON24NM": "Leicester East",
+                "PCON24NM": "Leicester East",
                 "REGION": "East Midlands",
                 "id": 263
             }
@@ -82914,7 +82914,7 @@
             },
             "properties": {
                 "type": "Feature",
-                "properties.PCON24NM": "Leicester South",
+                "PCON24NM": "Leicester South",
                 "REGION": "East Midlands",
                 "id": 264
             }
@@ -83042,7 +83042,7 @@
             },
             "properties": {
                 "type": "Feature",
-                "properties.PCON24NM": "Leicester West",
+                "PCON24NM": "Leicester West",
                 "REGION": "East Midlands",
                 "id": 265
             }
@@ -83250,7 +83250,7 @@
             },
             "properties": {
                 "type": "Feature",
-                "properties.PCON24NM": "Leigh and Atherton",
+                "PCON24NM": "Leigh and Atherton",
                 "REGION": "North West",
                 "id": 266
             }
@@ -83870,7 +83870,7 @@
             },
             "properties": {
                 "type": "Feature",
-                "properties.PCON24NM": "Lewes",
+                "PCON24NM": "Lewes",
                 "REGION": "South East",
                 "id": 267
             }
@@ -83998,7 +83998,7 @@
             },
             "properties": {
                 "type": "Feature",
-                "properties.PCON24NM": "Lewisham East",
+                "PCON24NM": "Lewisham East",
                 "REGION": "London",
                 "id": 268
             }
@@ -84122,7 +84122,7 @@
             },
             "properties": {
                 "type": "Feature",
-                "properties.PCON24NM": "Lewisham North",
+                "PCON24NM": "Lewisham North",
                 "REGION": "London",
                 "id": 269
             }
@@ -84250,7 +84250,7 @@
             },
             "properties": {
                 "type": "Feature",
-                "properties.PCON24NM": "Lewisham West and East Dulwich",
+                "PCON24NM": "Lewisham West and East Dulwich",
                 "REGION": "London",
                 "id": 270
             }
@@ -84350,7 +84350,7 @@
             },
             "properties": {
                 "type": "Feature",
-                "properties.PCON24NM": "Leyton and Wanstead",
+                "PCON24NM": "Leyton and Wanstead",
                 "REGION": "London",
                 "id": 271
             }
@@ -84742,7 +84742,7 @@
             },
             "properties": {
                 "type": "Feature",
-                "properties.PCON24NM": "Lichfield",
+                "PCON24NM": "Lichfield",
                 "REGION": "West Midlands",
                 "id": 272
             }
@@ -84922,7 +84922,7 @@
             },
             "properties": {
                 "type": "Feature",
-                "properties.PCON24NM": "Lincoln",
+                "PCON24NM": "Lincoln",
                 "REGION": "East Midlands",
                 "id": 273
             }
@@ -85074,7 +85074,7 @@
             },
             "properties": {
                 "type": "Feature",
-                "properties.PCON24NM": "Liverpool Garston",
+                "PCON24NM": "Liverpool Garston",
                 "REGION": "North West",
                 "id": 274
             }
@@ -85178,7 +85178,7 @@
             },
             "properties": {
                 "type": "Feature",
-                "properties.PCON24NM": "Liverpool Riverside",
+                "PCON24NM": "Liverpool Riverside",
                 "REGION": "North West",
                 "id": 275
             }
@@ -85294,7 +85294,7 @@
             },
             "properties": {
                 "type": "Feature",
-                "properties.PCON24NM": "Liverpool Walton",
+                "PCON24NM": "Liverpool Walton",
                 "REGION": "North West",
                 "id": 276
             }
@@ -85434,7 +85434,7 @@
             },
             "properties": {
                 "type": "Feature",
-                "properties.PCON24NM": "Liverpool Wavertree",
+                "PCON24NM": "Liverpool Wavertree",
                 "REGION": "North West",
                 "id": 277
             }
@@ -85550,7 +85550,7 @@
             },
             "properties": {
                 "type": "Feature",
-                "properties.PCON24NM": "Liverpool West Derby",
+                "PCON24NM": "Liverpool West Derby",
                 "REGION": "North West",
                 "id": 278
             }
@@ -85782,7 +85782,7 @@
             },
             "properties": {
                 "type": "Feature",
-                "properties.PCON24NM": "Loughborough",
+                "PCON24NM": "Loughborough",
                 "REGION": "East Midlands",
                 "id": 279
             }
@@ -86810,7 +86810,7 @@
             },
             "properties": {
                 "type": "Feature",
-                "properties.PCON24NM": "Louth and Horncastle",
+                "PCON24NM": "Louth and Horncastle",
                 "REGION": "East Midlands",
                 "id": 280
             }
@@ -87134,8 +87134,8 @@
             },
             "properties": {
                 "type": "Feature",
-                "properties.PCON24NM": "Lowestoft",
-                "REGION": "Eastern",
+                "PCON24NM": "Lowestoft",
+                "REGION": "East",
                 "id": 281
             }
         },
@@ -87254,8 +87254,8 @@
             },
             "properties": {
                 "type": "Feature",
-                "properties.PCON24NM": "Luton North",
-                "REGION": "Eastern",
+                "PCON24NM": "Luton North",
+                "REGION": "East",
                 "id": 282
             }
         },
@@ -87590,8 +87590,8 @@
             },
             "properties": {
                 "type": "Feature",
-                "properties.PCON24NM": "Luton South and South Bedfordshire",
-                "REGION": "Eastern",
+                "PCON24NM": "Luton South and South Bedfordshire",
+                "REGION": "East",
                 "id": 283
             }
         },
@@ -87962,7 +87962,7 @@
             },
             "properties": {
                 "type": "Feature",
-                "properties.PCON24NM": "Macclesfield",
+                "PCON24NM": "Macclesfield",
                 "REGION": "North West",
                 "id": 284
             }
@@ -88262,7 +88262,7 @@
             },
             "properties": {
                 "type": "Feature",
-                "properties.PCON24NM": "Maidenhead",
+                "PCON24NM": "Maidenhead",
                 "REGION": "South East",
                 "id": 285
             }
@@ -88458,7 +88458,7 @@
             },
             "properties": {
                 "type": "Feature",
-                "properties.PCON24NM": "Maidstone and Malling",
+                "PCON24NM": "Maidstone and Malling",
                 "REGION": "South East",
                 "id": 286
             }
@@ -88682,7 +88682,7 @@
             },
             "properties": {
                 "type": "Feature",
-                "properties.PCON24NM": "Makerfield",
+                "PCON24NM": "Makerfield",
                 "REGION": "North West",
                 "id": 287
             }
@@ -89736,8 +89736,8 @@
             },
             "properties": {
                 "type": "Feature",
-                "properties.PCON24NM": "Maldon",
-                "REGION": "Eastern",
+                "PCON24NM": "Maldon",
+                "REGION": "East",
                 "id": 288
             }
         },
@@ -89888,7 +89888,7 @@
             },
             "properties": {
                 "type": "Feature",
-                "properties.PCON24NM": "Manchester Central",
+                "PCON24NM": "Manchester Central",
                 "REGION": "North West",
                 "id": 289
             }
@@ -89972,7 +89972,7 @@
             },
             "properties": {
                 "type": "Feature",
-                "properties.PCON24NM": "Manchester Rusholme",
+                "PCON24NM": "Manchester Rusholme",
                 "REGION": "North West",
                 "id": 290
             }
@@ -90112,7 +90112,7 @@
             },
             "properties": {
                 "type": "Feature",
-                "properties.PCON24NM": "Manchester Withington",
+                "PCON24NM": "Manchester Withington",
                 "REGION": "North West",
                 "id": 291
             }
@@ -90300,7 +90300,7 @@
             },
             "properties": {
                 "type": "Feature",
-                "properties.PCON24NM": "Mansfield",
+                "PCON24NM": "Mansfield",
                 "REGION": "East Midlands",
                 "id": 292
             }
@@ -90872,7 +90872,7 @@
             },
             "properties": {
                 "type": "Feature",
-                "properties.PCON24NM": "Melksham and Devizes",
+                "PCON24NM": "Melksham and Devizes",
                 "REGION": "South West",
                 "id": 293
             }
@@ -91348,7 +91348,7 @@
             },
             "properties": {
                 "type": "Feature",
-                "properties.PCON24NM": "Melton and Syston",
+                "PCON24NM": "Melton and Syston",
                 "REGION": "East Midlands",
                 "id": 294
             }
@@ -91648,7 +91648,7 @@
             },
             "properties": {
                 "type": "Feature",
-                "properties.PCON24NM": "Meriden and Solihull East",
+                "PCON24NM": "Meriden and Solihull East",
                 "REGION": "West Midlands",
                 "id": 295
             }
@@ -92044,8 +92044,8 @@
             },
             "properties": {
                 "type": "Feature",
-                "properties.PCON24NM": "Mid Bedfordshire",
-                "REGION": "Eastern",
+                "PCON24NM": "Mid Bedfordshire",
+                "REGION": "East",
                 "id": 296
             }
         },
@@ -92844,7 +92844,7 @@
             },
             "properties": {
                 "type": "Feature",
-                "properties.PCON24NM": "Mid Buckinghamshire",
+                "PCON24NM": "Mid Buckinghamshire",
                 "REGION": "South East",
                 "id": 297
             }
@@ -93100,7 +93100,7 @@
             },
             "properties": {
                 "type": "Feature",
-                "properties.PCON24NM": "Mid Cheshire",
+                "PCON24NM": "Mid Cheshire",
                 "REGION": "North West",
                 "id": 298
             }
@@ -93528,7 +93528,7 @@
             },
             "properties": {
                 "type": "Feature",
-                "properties.PCON24NM": "Mid Derbyshire",
+                "PCON24NM": "Mid Derbyshire",
                 "REGION": "East Midlands",
                 "id": 299
             }
@@ -94208,7 +94208,7 @@
             },
             "properties": {
                 "type": "Feature",
-                "properties.PCON24NM": "Mid Dorset and North Poole",
+                "PCON24NM": "Mid Dorset and North Poole",
                 "REGION": "South West",
                 "id": 300
             }
@@ -94516,7 +94516,7 @@
             },
             "properties": {
                 "type": "Feature",
-                "properties.PCON24NM": "Mid Leicestershire",
+                "PCON24NM": "Mid Leicestershire",
                 "REGION": "East Midlands",
                 "id": 301
             }
@@ -95192,8 +95192,8 @@
             },
             "properties": {
                 "type": "Feature",
-                "properties.PCON24NM": "Mid Norfolk",
-                "REGION": "Eastern",
+                "PCON24NM": "Mid Norfolk",
+                "REGION": "East",
                 "id": 302
             }
         },
@@ -95572,7 +95572,7 @@
             },
             "properties": {
                 "type": "Feature",
-                "properties.PCON24NM": "Mid Sussex",
+                "PCON24NM": "Mid Sussex",
                 "REGION": "South East",
                 "id": 303
             }
@@ -95716,7 +95716,7 @@
             },
             "properties": {
                 "type": "Feature",
-                "properties.PCON24NM": "Middlesbrough and Thornaby East",
+                "PCON24NM": "Middlesbrough and Thornaby East",
                 "REGION": "North East",
                 "id": 304
             }
@@ -96028,7 +96028,7 @@
             },
             "properties": {
                 "type": "Feature",
-                "properties.PCON24NM": "Middlesbrough South and East Cleveland",
+                "PCON24NM": "Middlesbrough South and East Cleveland",
                 "REGION": "North East",
                 "id": 305
             }
@@ -96188,7 +96188,7 @@
             },
             "properties": {
                 "type": "Feature",
-                "properties.PCON24NM": "Milton Keynes Central",
+                "PCON24NM": "Milton Keynes Central",
                 "REGION": "South East",
                 "id": 306
             }
@@ -96488,7 +96488,7 @@
             },
             "properties": {
                 "type": "Feature",
-                "properties.PCON24NM": "Milton Keynes North",
+                "PCON24NM": "Milton Keynes North",
                 "REGION": "South East",
                 "id": 307
             }
@@ -96604,7 +96604,7 @@
             },
             "properties": {
                 "type": "Feature",
-                "properties.PCON24NM": "Mitcham and Morden",
+                "PCON24NM": "Mitcham and Morden",
                 "REGION": "London",
                 "id": 308
             }
@@ -97782,7 +97782,7 @@
             },
             "properties": {
                 "type": "Feature",
-                "properties.PCON24NM": "Morecambe and Lunesdale",
+                "PCON24NM": "Morecambe and Lunesdale",
                 "REGION": "North West",
                 "id": 309
             }
@@ -98490,7 +98490,7 @@
             },
             "properties": {
                 "type": "Feature",
-                "properties.PCON24NM": "New Forest East",
+                "PCON24NM": "New Forest East",
                 "REGION": "South East",
                 "id": 310
             }
@@ -99046,7 +99046,7 @@
             },
             "properties": {
                 "type": "Feature",
-                "properties.PCON24NM": "New Forest West",
+                "PCON24NM": "New Forest West",
                 "REGION": "South East",
                 "id": 311
             }
@@ -99826,7 +99826,7 @@
             },
             "properties": {
                 "type": "Feature",
-                "properties.PCON24NM": "Newark",
+                "PCON24NM": "Newark",
                 "REGION": "East Midlands",
                 "id": 312
             }
@@ -100246,7 +100246,7 @@
             },
             "properties": {
                 "type": "Feature",
-                "properties.PCON24NM": "Newbury",
+                "PCON24NM": "Newbury",
                 "REGION": "South East",
                 "id": 313
             }
@@ -100414,7 +100414,7 @@
             },
             "properties": {
                 "type": "Feature",
-                "properties.PCON24NM": "Newcastle upon Tyne Central and West",
+                "PCON24NM": "Newcastle upon Tyne Central and West",
                 "REGION": "North East",
                 "id": 314
             }
@@ -100570,7 +100570,7 @@
             },
             "properties": {
                 "type": "Feature",
-                "properties.PCON24NM": "Newcastle upon Tyne East and Wallsend",
+                "PCON24NM": "Newcastle upon Tyne East and Wallsend",
                 "REGION": "North East",
                 "id": 315
             }
@@ -100698,7 +100698,7 @@
             },
             "properties": {
                 "type": "Feature",
-                "properties.PCON24NM": "Newcastle upon Tyne North",
+                "PCON24NM": "Newcastle upon Tyne North",
                 "REGION": "North East",
                 "id": 316
             }
@@ -100902,7 +100902,7 @@
             },
             "properties": {
                 "type": "Feature",
-                "properties.PCON24NM": "Newcastle-under-Lyme",
+                "PCON24NM": "Newcastle-under-Lyme",
                 "REGION": "West Midlands",
                 "id": 317
             }
@@ -101412,7 +101412,7 @@
             },
             "properties": {
                 "type": "Feature",
-                "properties.PCON24NM": "Newton Abbot",
+                "PCON24NM": "Newton Abbot",
                 "REGION": "South West",
                 "id": 318
             }
@@ -101836,7 +101836,7 @@
             },
             "properties": {
                 "type": "Feature",
-                "properties.PCON24NM": "Newton Aycliffe and Spennymoor",
+                "PCON24NM": "Newton Aycliffe and Spennymoor",
                 "REGION": "North East",
                 "id": 319
             }
@@ -102100,7 +102100,7 @@
             },
             "properties": {
                 "type": "Feature",
-                "properties.PCON24NM": "Normanton and Hemsworth",
+                "PCON24NM": "Normanton and Hemsworth",
                 "REGION": "Yorkshire and the Humber",
                 "id": 320
             }
@@ -102672,8 +102672,8 @@
             },
             "properties": {
                 "type": "Feature",
-                "properties.PCON24NM": "North Bedfordshire",
-                "REGION": "Eastern",
+                "PCON24NM": "North Bedfordshire",
+                "REGION": "East",
                 "id": 321
             }
         },
@@ -104388,7 +104388,7 @@
             },
             "properties": {
                 "type": "Feature",
-                "properties.PCON24NM": "North Cornwall",
+                "PCON24NM": "North Cornwall",
                 "REGION": "South West",
                 "id": 322
             }
@@ -105468,7 +105468,7 @@
             },
             "properties": {
                 "type": "Feature",
-                "properties.PCON24NM": "North Cotswolds",
+                "PCON24NM": "North Cotswolds",
                 "REGION": "South West",
                 "id": 323
             }
@@ -106662,7 +106662,7 @@
             },
             "properties": {
                 "type": "Feature",
-                "properties.PCON24NM": "North Devon",
+                "PCON24NM": "North Devon",
                 "REGION": "South West",
                 "id": 324
             }
@@ -107434,7 +107434,7 @@
             },
             "properties": {
                 "type": "Feature",
-                "properties.PCON24NM": "North Dorset",
+                "PCON24NM": "North Dorset",
                 "REGION": "South West",
                 "id": 325
             }
@@ -107934,7 +107934,7 @@
             },
             "properties": {
                 "type": "Feature",
-                "properties.PCON24NM": "North Durham",
+                "PCON24NM": "North Durham",
                 "REGION": "North East",
                 "id": 326
             }
@@ -108386,8 +108386,8 @@
             },
             "properties": {
                 "type": "Feature",
-                "properties.PCON24NM": "North East Cambridgeshire",
-                "REGION": "Eastern",
+                "PCON24NM": "North East Cambridgeshire",
+                "REGION": "East",
                 "id": 327
             }
         },
@@ -108950,7 +108950,7 @@
             },
             "properties": {
                 "type": "Feature",
-                "properties.PCON24NM": "North East Derbyshire",
+                "PCON24NM": "North East Derbyshire",
                 "REGION": "East Midlands",
                 "id": 328
             }
@@ -109274,7 +109274,7 @@
             },
             "properties": {
                 "type": "Feature",
-                "properties.PCON24NM": "North East Hampshire",
+                "PCON24NM": "North East Hampshire",
                 "REGION": "South East",
                 "id": 329
             }
@@ -109782,8 +109782,8 @@
             },
             "properties": {
                 "type": "Feature",
-                "properties.PCON24NM": "North East Hertfordshire",
-                "REGION": "Eastern",
+                "PCON24NM": "North East Hertfordshire",
+                "REGION": "East",
                 "id": 330
             }
         },
@@ -110318,7 +110318,7 @@
             },
             "properties": {
                 "type": "Feature",
-                "properties.PCON24NM": "North East Somerset and Hanham",
+                "PCON24NM": "North East Somerset and Hanham",
                 "REGION": "South West",
                 "id": 331
             }
@@ -111510,7 +111510,7 @@
             },
             "properties": {
                 "type": "Feature",
-                "properties.PCON24NM": "North Herefordshire",
+                "PCON24NM": "North Herefordshire",
                 "REGION": "West Midlands",
                 "id": 332
             }
@@ -112540,8 +112540,8 @@
             },
             "properties": {
                 "type": "Feature",
-                "properties.PCON24NM": "North Norfolk",
-                "REGION": "Eastern",
+                "PCON24NM": "North Norfolk",
+                "REGION": "East",
                 "id": 333
             }
         },
@@ -114146,7 +114146,7 @@
             },
             "properties": {
                 "type": "Feature",
-                "properties.PCON24NM": "North Northumberland",
+                "PCON24NM": "North Northumberland",
                 "REGION": "North East",
                 "id": 334
             }
@@ -115114,7 +115114,7 @@
             },
             "properties": {
                 "type": "Feature",
-                "properties.PCON24NM": "North Shropshire",
+                "PCON24NM": "North Shropshire",
                 "REGION": "West Midlands",
                 "id": 335
             }
@@ -115698,7 +115698,7 @@
             },
             "properties": {
                 "type": "Feature",
-                "properties.PCON24NM": "North Somerset",
+                "PCON24NM": "North Somerset",
                 "REGION": "South West",
                 "id": 336
             }
@@ -116222,7 +116222,7 @@
             },
             "properties": {
                 "type": "Feature",
-                "properties.PCON24NM": "North Warwickshire and Bedworth",
+                "PCON24NM": "North Warwickshire and Bedworth",
                 "REGION": "West Midlands",
                 "id": 337
             }
@@ -116738,8 +116738,8 @@
             },
             "properties": {
                 "type": "Feature",
-                "properties.PCON24NM": "North West Cambridgeshire",
-                "REGION": "Eastern",
+                "PCON24NM": "North West Cambridgeshire",
+                "REGION": "East",
                 "id": 338
             }
         },
@@ -117398,8 +117398,8 @@
             },
             "properties": {
                 "type": "Feature",
-                "properties.PCON24NM": "North West Essex",
-                "REGION": "Eastern",
+                "PCON24NM": "North West Essex",
+                "REGION": "East",
                 "id": 339
             }
         },
@@ -117834,7 +117834,7 @@
             },
             "properties": {
                 "type": "Feature",
-                "properties.PCON24NM": "North West Hampshire",
+                "PCON24NM": "North West Hampshire",
                 "REGION": "South East",
                 "id": 340
             }
@@ -118238,7 +118238,7 @@
             },
             "properties": {
                 "type": "Feature",
-                "properties.PCON24NM": "North West Leicestershire",
+                "PCON24NM": "North West Leicestershire",
                 "REGION": "East Midlands",
                 "id": 341
             }
@@ -119280,8 +119280,8 @@
             },
             "properties": {
                 "type": "Feature",
-                "properties.PCON24NM": "North West Norfolk",
-                "REGION": "Eastern",
+                "PCON24NM": "North West Norfolk",
+                "REGION": "East",
                 "id": 342
             }
         },
@@ -119420,7 +119420,7 @@
             },
             "properties": {
                 "type": "Feature",
-                "properties.PCON24NM": "Northampton North",
+                "PCON24NM": "Northampton North",
                 "REGION": "East Midlands",
                 "id": 343
             }
@@ -119616,7 +119616,7 @@
             },
             "properties": {
                 "type": "Feature",
-                "properties.PCON24NM": "Northampton South",
+                "PCON24NM": "Northampton South",
                 "REGION": "East Midlands",
                 "id": 344
             }
@@ -119832,8 +119832,8 @@
             },
             "properties": {
                 "type": "Feature",
-                "properties.PCON24NM": "Norwich North",
-                "REGION": "Eastern",
+                "PCON24NM": "Norwich North",
+                "REGION": "East",
                 "id": 345
             }
         },
@@ -120192,8 +120192,8 @@
             },
             "properties": {
                 "type": "Feature",
-                "properties.PCON24NM": "Norwich South",
-                "REGION": "Eastern",
+                "PCON24NM": "Norwich South",
+                "REGION": "East",
                 "id": 346
             }
         },
@@ -120316,7 +120316,7 @@
             },
             "properties": {
                 "type": "Feature",
-                "properties.PCON24NM": "Nottingham East",
+                "PCON24NM": "Nottingham East",
                 "REGION": "East Midlands",
                 "id": 347
             }
@@ -120536,7 +120536,7 @@
             },
             "properties": {
                 "type": "Feature",
-                "properties.PCON24NM": "Nottingham North and Kimberley",
+                "PCON24NM": "Nottingham North and Kimberley",
                 "REGION": "East Midlands",
                 "id": 348
             }
@@ -120704,7 +120704,7 @@
             },
             "properties": {
                 "type": "Feature",
-                "properties.PCON24NM": "Nottingham South",
+                "PCON24NM": "Nottingham South",
                 "REGION": "East Midlands",
                 "id": 349
             }
@@ -120904,7 +120904,7 @@
             },
             "properties": {
                 "type": "Feature",
-                "properties.PCON24NM": "Nuneaton",
+                "PCON24NM": "Nuneaton",
                 "REGION": "West Midlands",
                 "id": 350
             }
@@ -121048,7 +121048,7 @@
             },
             "properties": {
                 "type": "Feature",
-                "properties.PCON24NM": "Old Bexley and Sidcup",
+                "PCON24NM": "Old Bexley and Sidcup",
                 "REGION": "London",
                 "id": 351
             }
@@ -121244,7 +121244,7 @@
             },
             "properties": {
                 "type": "Feature",
-                "properties.PCON24NM": "Oldham East and Saddleworth",
+                "PCON24NM": "Oldham East and Saddleworth",
                 "REGION": "North West",
                 "id": 352
             }
@@ -121384,7 +121384,7 @@
             },
             "properties": {
                 "type": "Feature",
-                "properties.PCON24NM": "Oldham West, Chadderton and Royton",
+                "PCON24NM": "Oldham West, Chadderton and Royton",
                 "REGION": "North West",
                 "id": 353
             }
@@ -121568,7 +121568,7 @@
             },
             "properties": {
                 "type": "Feature",
-                "properties.PCON24NM": "Orpington",
+                "PCON24NM": "Orpington",
                 "REGION": "London",
                 "id": 354
             }
@@ -121920,7 +121920,7 @@
             },
             "properties": {
                 "type": "Feature",
-                "properties.PCON24NM": "Ossett and Denby Dale",
+                "PCON24NM": "Ossett and Denby Dale",
                 "REGION": "Yorkshire and the Humber",
                 "id": 355
             }
@@ -122044,7 +122044,7 @@
             },
             "properties": {
                 "type": "Feature",
-                "properties.PCON24NM": "Oxford East",
+                "PCON24NM": "Oxford East",
                 "REGION": "South East",
                 "id": 356
             }
@@ -122316,7 +122316,7 @@
             },
             "properties": {
                 "type": "Feature",
-                "properties.PCON24NM": "Oxford West and Abingdon",
+                "PCON24NM": "Oxford West and Abingdon",
                 "REGION": "South East",
                 "id": 357
             }
@@ -122408,7 +122408,7 @@
             },
             "properties": {
                 "type": "Feature",
-                "properties.PCON24NM": "Peckham",
+                "PCON24NM": "Peckham",
                 "REGION": "London",
                 "id": 358
             }
@@ -122804,7 +122804,7 @@
             },
             "properties": {
                 "type": "Feature",
-                "properties.PCON24NM": "Pendle and Clitheroe",
+                "PCON24NM": "Pendle and Clitheroe",
                 "REGION": "North West",
                 "id": 359
             }
@@ -123216,7 +123216,7 @@
             },
             "properties": {
                 "type": "Feature",
-                "properties.PCON24NM": "Penistone and Stocksbridge",
+                "PCON24NM": "Penistone and Stocksbridge",
                 "REGION": "Yorkshire and the Humber",
                 "id": 360
             }
@@ -124744,7 +124744,7 @@
             },
             "properties": {
                 "type": "Feature",
-                "properties.PCON24NM": "Penrith and Solway",
+                "PCON24NM": "Penrith and Solway",
                 "REGION": "North West",
                 "id": 361
             }
@@ -124904,8 +124904,8 @@
             },
             "properties": {
                 "type": "Feature",
-                "properties.PCON24NM": "Peterborough",
-                "REGION": "Eastern",
+                "PCON24NM": "Peterborough",
+                "REGION": "East",
                 "id": 362
             }
         },
@@ -125076,7 +125076,7 @@
             },
             "properties": {
                 "type": "Feature",
-                "properties.PCON24NM": "Plymouth Moor View",
+                "PCON24NM": "Plymouth Moor View",
                 "REGION": "South West",
                 "id": 363
             }
@@ -125264,7 +125264,7 @@
             },
             "properties": {
                 "type": "Feature",
-                "properties.PCON24NM": "Plymouth Sutton and Devonport",
+                "PCON24NM": "Plymouth Sutton and Devonport",
                 "REGION": "South West",
                 "id": 364
             }
@@ -125472,7 +125472,7 @@
             },
             "properties": {
                 "type": "Feature",
-                "properties.PCON24NM": "Pontefract, Castleford and Knottingley",
+                "PCON24NM": "Pontefract, Castleford and Knottingley",
                 "REGION": "Yorkshire and the Humber",
                 "id": 365
             }
@@ -125818,7 +125818,7 @@
             },
             "properties": {
                 "type": "Feature",
-                "properties.PCON24NM": "Poole",
+                "PCON24NM": "Poole",
                 "REGION": "South West",
                 "id": 366
             }
@@ -125946,7 +125946,7 @@
             },
             "properties": {
                 "type": "Feature",
-                "properties.PCON24NM": "Poplar and Limehouse",
+                "PCON24NM": "Poplar and Limehouse",
                 "REGION": "London",
                 "id": 367
             }
@@ -126228,7 +126228,7 @@
             },
             "properties": {
                 "type": "Feature",
-                "properties.PCON24NM": "Portsmouth North",
+                "PCON24NM": "Portsmouth North",
                 "REGION": "South East",
                 "id": 368
             }
@@ -126372,7 +126372,7 @@
             },
             "properties": {
                 "type": "Feature",
-                "properties.PCON24NM": "Portsmouth South",
+                "PCON24NM": "Portsmouth South",
                 "REGION": "South East",
                 "id": 369
             }
@@ -126564,7 +126564,7 @@
             },
             "properties": {
                 "type": "Feature",
-                "properties.PCON24NM": "Preston",
+                "PCON24NM": "Preston",
                 "REGION": "North West",
                 "id": 370
             }
@@ -126680,7 +126680,7 @@
             },
             "properties": {
                 "type": "Feature",
-                "properties.PCON24NM": "Putney",
+                "PCON24NM": "Putney",
                 "REGION": "London",
                 "id": 371
             }
@@ -126780,7 +126780,7 @@
             },
             "properties": {
                 "type": "Feature",
-                "properties.PCON24NM": "Queen's Park and Maida Vale",
+                "PCON24NM": "Queen's Park and Maida Vale",
                 "REGION": "London",
                 "id": 372
             }
@@ -127096,7 +127096,7 @@
             },
             "properties": {
                 "type": "Feature",
-                "properties.PCON24NM": "Rawmarsh and Conisbrough",
+                "PCON24NM": "Rawmarsh and Conisbrough",
                 "REGION": "Yorkshire and the Humber",
                 "id": 373
             }
@@ -127308,8 +127308,8 @@
             },
             "properties": {
                 "type": "Feature",
-                "properties.PCON24NM": "Rayleigh and Wickford",
-                "REGION": "Eastern",
+                "PCON24NM": "Rayleigh and Wickford",
+                "REGION": "East",
                 "id": 374
             }
         },
@@ -127472,7 +127472,7 @@
             },
             "properties": {
                 "type": "Feature",
-                "properties.PCON24NM": "Reading Central",
+                "PCON24NM": "Reading Central",
                 "REGION": "South East",
                 "id": 375
             }
@@ -127856,7 +127856,7 @@
             },
             "properties": {
                 "type": "Feature",
-                "properties.PCON24NM": "Reading West and Mid Berkshire",
+                "PCON24NM": "Reading West and Mid Berkshire",
                 "REGION": "South East",
                 "id": 376
             }
@@ -128100,7 +128100,7 @@
             },
             "properties": {
                 "type": "Feature",
-                "properties.PCON24NM": "Redcar",
+                "PCON24NM": "Redcar",
                 "REGION": "North East",
                 "id": 377
             }
@@ -128588,7 +128588,7 @@
             },
             "properties": {
                 "type": "Feature",
-                "properties.PCON24NM": "Redditch",
+                "PCON24NM": "Redditch",
                 "REGION": "West Midlands",
                 "id": 378
             }
@@ -128832,7 +128832,7 @@
             },
             "properties": {
                 "type": "Feature",
-                "properties.PCON24NM": "Reigate",
+                "PCON24NM": "Reigate",
                 "REGION": "South East",
                 "id": 379
             }
@@ -129516,7 +129516,7 @@
             },
             "properties": {
                 "type": "Feature",
-                "properties.PCON24NM": "Ribble Valley",
+                "PCON24NM": "Ribble Valley",
                 "REGION": "North West",
                 "id": 380
             }
@@ -130680,7 +130680,7 @@
             },
             "properties": {
                 "type": "Feature",
-                "properties.PCON24NM": "Richmond and Northallerton",
+                "PCON24NM": "Richmond and Northallerton",
                 "REGION": "Yorkshire and the Humber",
                 "id": 381
             }
@@ -130904,7 +130904,7 @@
             },
             "properties": {
                 "type": "Feature",
-                "properties.PCON24NM": "Richmond Park",
+                "PCON24NM": "Richmond Park",
                 "REGION": "London",
                 "id": 382
             }
@@ -131076,7 +131076,7 @@
             },
             "properties": {
                 "type": "Feature",
-                "properties.PCON24NM": "Rochdale",
+                "PCON24NM": "Rochdale",
                 "REGION": "North West",
                 "id": 383
             }
@@ -131702,7 +131702,7 @@
             },
             "properties": {
                 "type": "Feature",
-                "properties.PCON24NM": "Rochester and Strood",
+                "PCON24NM": "Rochester and Strood",
                 "REGION": "South East",
                 "id": 384
             }
@@ -131818,7 +131818,7 @@
             },
             "properties": {
                 "type": "Feature",
-                "properties.PCON24NM": "Romford",
+                "PCON24NM": "Romford",
                 "REGION": "London",
                 "id": 385
             }
@@ -132446,7 +132446,7 @@
             },
             "properties": {
                 "type": "Feature",
-                "properties.PCON24NM": "Romsey and Southampton North",
+                "PCON24NM": "Romsey and Southampton North",
                 "REGION": "South East",
                 "id": 386
             }
@@ -132882,7 +132882,7 @@
             },
             "properties": {
                 "type": "Feature",
-                "properties.PCON24NM": "Rossendale and Darwen",
+                "PCON24NM": "Rossendale and Darwen",
                 "REGION": "North West",
                 "id": 387
             }
@@ -133182,7 +133182,7 @@
             },
             "properties": {
                 "type": "Feature",
-                "properties.PCON24NM": "Rother Valley",
+                "PCON24NM": "Rother Valley",
                 "REGION": "Yorkshire and the Humber",
                 "id": 388
             }
@@ -133434,7 +133434,7 @@
             },
             "properties": {
                 "type": "Feature",
-                "properties.PCON24NM": "Rotherham",
+                "PCON24NM": "Rotherham",
                 "REGION": "Yorkshire and the Humber",
                 "id": 389
             }
@@ -133714,7 +133714,7 @@
             },
             "properties": {
                 "type": "Feature",
-                "properties.PCON24NM": "Rugby",
+                "PCON24NM": "Rugby",
                 "REGION": "West Midlands",
                 "id": 390
             }
@@ -133870,7 +133870,7 @@
             },
             "properties": {
                 "type": "Feature",
-                "properties.PCON24NM": "Ruislip, Northwood and Pinner",
+                "PCON24NM": "Ruislip, Northwood and Pinner",
                 "REGION": "London",
                 "id": 391
             }
@@ -134226,7 +134226,7 @@
             },
             "properties": {
                 "type": "Feature",
-                "properties.PCON24NM": "Runcorn and Helsby",
+                "PCON24NM": "Runcorn and Helsby",
                 "REGION": "North West",
                 "id": 392
             }
@@ -134526,7 +134526,7 @@
             },
             "properties": {
                 "type": "Feature",
-                "properties.PCON24NM": "Runnymede and Weybridge",
+                "PCON24NM": "Runnymede and Weybridge",
                 "REGION": "South East",
                 "id": 393
             }
@@ -134886,7 +134886,7 @@
             },
             "properties": {
                 "type": "Feature",
-                "properties.PCON24NM": "Rushcliffe",
+                "PCON24NM": "Rushcliffe",
                 "REGION": "East Midlands",
                 "id": 394
             }
@@ -135638,7 +135638,7 @@
             },
             "properties": {
                 "type": "Feature",
-                "properties.PCON24NM": "Rutland and Stamford",
+                "PCON24NM": "Rutland and Stamford",
                 "REGION": "East Midlands",
                 "id": 395
             }
@@ -135806,7 +135806,7 @@
             },
             "properties": {
                 "type": "Feature",
-                "properties.PCON24NM": "Salford",
+                "PCON24NM": "Salford",
                 "REGION": "North West",
                 "id": 396
             }
@@ -136326,7 +136326,7 @@
             },
             "properties": {
                 "type": "Feature",
-                "properties.PCON24NM": "Salisbury",
+                "PCON24NM": "Salisbury",
                 "REGION": "South West",
                 "id": 397
             }
@@ -137150,7 +137150,7 @@
             },
             "properties": {
                 "type": "Feature",
-                "properties.PCON24NM": "Scarborough and Whitby",
+                "PCON24NM": "Scarborough and Whitby",
                 "REGION": "Yorkshire and the Humber",
                 "id": 398
             }
@@ -137524,7 +137524,7 @@
             },
             "properties": {
                 "type": "Feature",
-                "properties.PCON24NM": "Scunthorpe",
+                "PCON24NM": "Scunthorpe",
                 "REGION": "Yorkshire and the Humber",
                 "id": 399
             }
@@ -137796,7 +137796,7 @@
             },
             "properties": {
                 "type": "Feature",
-                "properties.PCON24NM": "Sefton Central",
+                "PCON24NM": "Sefton Central",
                 "REGION": "North West",
                 "id": 400
             }
@@ -138456,7 +138456,7 @@
             },
             "properties": {
                 "type": "Feature",
-                "properties.PCON24NM": "Selby",
+                "PCON24NM": "Selby",
                 "REGION": "Yorkshire and the Humber",
                 "id": 401
             }
@@ -138788,7 +138788,7 @@
             },
             "properties": {
                 "type": "Feature",
-                "properties.PCON24NM": "Sevenoaks",
+                "PCON24NM": "Sevenoaks",
                 "REGION": "South East",
                 "id": 402
             }
@@ -138904,7 +138904,7 @@
             },
             "properties": {
                 "type": "Feature",
-                "properties.PCON24NM": "Sheffield Brightside and Hillsborough",
+                "PCON24NM": "Sheffield Brightside and Hillsborough",
                 "REGION": "Yorkshire and the Humber",
                 "id": 403
             }
@@ -139000,7 +139000,7 @@
             },
             "properties": {
                 "type": "Feature",
-                "properties.PCON24NM": "Sheffield Central",
+                "PCON24NM": "Sheffield Central",
                 "REGION": "Yorkshire and the Humber",
                 "id": 404
             }
@@ -139296,7 +139296,7 @@
             },
             "properties": {
                 "type": "Feature",
-                "properties.PCON24NM": "Sheffield Hallam",
+                "PCON24NM": "Sheffield Hallam",
                 "REGION": "Yorkshire and the Humber",
                 "id": 405
             }
@@ -139416,7 +139416,7 @@
             },
             "properties": {
                 "type": "Feature",
-                "properties.PCON24NM": "Sheffield Heeley",
+                "PCON24NM": "Sheffield Heeley",
                 "REGION": "Yorkshire and the Humber",
                 "id": 406
             }
@@ -139564,7 +139564,7 @@
             },
             "properties": {
                 "type": "Feature",
-                "properties.PCON24NM": "Sheffield South East",
+                "PCON24NM": "Sheffield South East",
                 "REGION": "Yorkshire and the Humber",
                 "id": 407
             }
@@ -140016,7 +140016,7 @@
             },
             "properties": {
                 "type": "Feature",
-                "properties.PCON24NM": "Sherwood Forest",
+                "PCON24NM": "Sherwood Forest",
                 "REGION": "East Midlands",
                 "id": 408
             }
@@ -140356,7 +140356,7 @@
             },
             "properties": {
                 "type": "Feature",
-                "properties.PCON24NM": "Shipley",
+                "PCON24NM": "Shipley",
                 "REGION": "Yorkshire and the Humber",
                 "id": 409
             }
@@ -140924,7 +140924,7 @@
             },
             "properties": {
                 "type": "Feature",
-                "properties.PCON24NM": "Shrewsbury",
+                "PCON24NM": "Shrewsbury",
                 "REGION": "West Midlands",
                 "id": 410
             }
@@ -141650,7 +141650,7 @@
             },
             "properties": {
                 "type": "Feature",
-                "properties.PCON24NM": "Sittingbourne and Sheppey",
+                "PCON24NM": "Sittingbourne and Sheppey",
                 "REGION": "South East",
                 "id": 411
             }
@@ -142914,7 +142914,7 @@
             },
             "properties": {
                 "type": "Feature",
-                "properties.PCON24NM": "Skipton and Ripon",
+                "PCON24NM": "Skipton and Ripon",
                 "REGION": "Yorkshire and the Humber",
                 "id": 412
             }
@@ -143374,7 +143374,7 @@
             },
             "properties": {
                 "type": "Feature",
-                "properties.PCON24NM": "Sleaford and North Hykeham",
+                "PCON24NM": "Sleaford and North Hykeham",
                 "REGION": "East Midlands",
                 "id": 413
             }
@@ -143534,7 +143534,7 @@
             },
             "properties": {
                 "type": "Feature",
-                "properties.PCON24NM": "Slough",
+                "PCON24NM": "Slough",
                 "REGION": "South East",
                 "id": 414
             }
@@ -143674,7 +143674,7 @@
             },
             "properties": {
                 "type": "Feature",
-                "properties.PCON24NM": "Smethwick",
+                "PCON24NM": "Smethwick",
                 "REGION": "West Midlands",
                 "id": 415
             }
@@ -143782,7 +143782,7 @@
             },
             "properties": {
                 "type": "Feature",
-                "properties.PCON24NM": "Solihull West and Shirley",
+                "PCON24NM": "Solihull West and Shirley",
                 "REGION": "West Midlands",
                 "id": 416
             }
@@ -144074,8 +144074,8 @@
             },
             "properties": {
                 "type": "Feature",
-                "properties.PCON24NM": "South Basildon and East Thurrock",
-                "REGION": "Eastern",
+                "PCON24NM": "South Basildon and East Thurrock",
+                "REGION": "East",
                 "id": 417
             }
         },
@@ -144686,8 +144686,8 @@
             },
             "properties": {
                 "type": "Feature",
-                "properties.PCON24NM": "South Cambridgeshire",
-                "REGION": "Eastern",
+                "PCON24NM": "South Cambridgeshire",
+                "REGION": "East",
                 "id": 418
             }
         },
@@ -145546,7 +145546,7 @@
             },
             "properties": {
                 "type": "Feature",
-                "properties.PCON24NM": "South Cotswolds",
+                "PCON24NM": "South Cotswolds",
                 "REGION": "South West",
                 "id": 419
             }
@@ -146138,7 +146138,7 @@
             },
             "properties": {
                 "type": "Feature",
-                "properties.PCON24NM": "South Derbyshire",
+                "PCON24NM": "South Derbyshire",
                 "REGION": "East Midlands",
                 "id": 420
             }
@@ -147864,7 +147864,7 @@
             },
             "properties": {
                 "type": "Feature",
-                "properties.PCON24NM": "South Devon",
+                "PCON24NM": "South Devon",
                 "REGION": "South West",
                 "id": 421
             }
@@ -149198,7 +149198,7 @@
             },
             "properties": {
                 "type": "Feature",
-                "properties.PCON24NM": "South Dorset",
+                "PCON24NM": "South Dorset",
                 "REGION": "South West",
                 "id": 422
             }
@@ -150692,7 +150692,7 @@
             },
             "properties": {
                 "type": "Feature",
-                "properties.PCON24NM": "South East Cornwall",
+                "PCON24NM": "South East Cornwall",
                 "REGION": "South West",
                 "id": 423
             }
@@ -151184,7 +151184,7 @@
             },
             "properties": {
                 "type": "Feature",
-                "properties.PCON24NM": "South Holland and The Deepings",
+                "PCON24NM": "South Holland and The Deepings",
                 "REGION": "East Midlands",
                 "id": 424
             }
@@ -151560,7 +151560,7 @@
             },
             "properties": {
                 "type": "Feature",
-                "properties.PCON24NM": "South Leicestershire",
+                "PCON24NM": "South Leicestershire",
                 "REGION": "East Midlands",
                 "id": 425
             }
@@ -152348,8 +152348,8 @@
             },
             "properties": {
                 "type": "Feature",
-                "properties.PCON24NM": "South Norfolk",
-                "REGION": "Eastern",
+                "PCON24NM": "South Norfolk",
+                "REGION": "East",
                 "id": 426
             }
         },
@@ -153060,7 +153060,7 @@
             },
             "properties": {
                 "type": "Feature",
-                "properties.PCON24NM": "South Northamptonshire",
+                "PCON24NM": "South Northamptonshire",
                 "REGION": "East Midlands",
                 "id": 427
             }
@@ -153396,7 +153396,7 @@
             },
             "properties": {
                 "type": "Feature",
-                "properties.PCON24NM": "South Ribble",
+                "PCON24NM": "South Ribble",
                 "REGION": "North West",
                 "id": 428
             }
@@ -153560,7 +153560,7 @@
             },
             "properties": {
                 "type": "Feature",
-                "properties.PCON24NM": "South Shields",
+                "PCON24NM": "South Shields",
                 "REGION": "North East",
                 "id": 429
             }
@@ -154708,7 +154708,7 @@
             },
             "properties": {
                 "type": "Feature",
-                "properties.PCON24NM": "South Shropshire",
+                "PCON24NM": "South Shropshire",
                 "REGION": "West Midlands",
                 "id": 430
             }
@@ -155426,8 +155426,8 @@
             },
             "properties": {
                 "type": "Feature",
-                "properties.PCON24NM": "South Suffolk",
-                "REGION": "Eastern",
+                "PCON24NM": "South Suffolk",
+                "REGION": "East",
                 "id": 431
             }
         },
@@ -156254,7 +156254,7 @@
             },
             "properties": {
                 "type": "Feature",
-                "properties.PCON24NM": "South West Devon",
+                "PCON24NM": "South West Devon",
                 "REGION": "South West",
                 "id": 432
             }
@@ -156526,8 +156526,8 @@
             },
             "properties": {
                 "type": "Feature",
-                "properties.PCON24NM": "South West Hertfordshire",
-                "REGION": "Eastern",
+                "PCON24NM": "South West Hertfordshire",
+                "REGION": "East",
                 "id": 433
             }
         },
@@ -157350,8 +157350,8 @@
             },
             "properties": {
                 "type": "Feature",
-                "properties.PCON24NM": "South West Norfolk",
-                "REGION": "Eastern",
+                "PCON24NM": "South West Norfolk",
+                "REGION": "East",
                 "id": 434
             }
         },
@@ -157794,7 +157794,7 @@
             },
             "properties": {
                 "type": "Feature",
-                "properties.PCON24NM": "South West Wiltshire",
+                "PCON24NM": "South West Wiltshire",
                 "REGION": "South West",
                 "id": 435
             }
@@ -158000,7 +158000,7 @@
             },
             "properties": {
                 "type": "Feature",
-                "properties.PCON24NM": "Southampton Itchen",
+                "PCON24NM": "Southampton Itchen",
                 "REGION": "South East",
                 "id": 436
             }
@@ -158180,7 +158180,7 @@
             },
             "properties": {
                 "type": "Feature",
-                "properties.PCON24NM": "Southampton Test",
+                "PCON24NM": "Southampton Test",
                 "REGION": "South East",
                 "id": 437
             }
@@ -158730,8 +158730,8 @@
             },
             "properties": {
                 "type": "Feature",
-                "properties.PCON24NM": "Southend East and Rochford",
-                "REGION": "Eastern",
+                "PCON24NM": "Southend East and Rochford",
+                "REGION": "East",
                 "id": 438
             }
         },
@@ -158876,8 +158876,8 @@
             },
             "properties": {
                 "type": "Feature",
-                "properties.PCON24NM": "Southend West and Leigh",
-                "REGION": "Eastern",
+                "PCON24NM": "Southend West and Leigh",
+                "REGION": "East",
                 "id": 439
             }
         },
@@ -159056,7 +159056,7 @@
             },
             "properties": {
                 "type": "Feature",
-                "properties.PCON24NM": "Southgate and Wood Green",
+                "PCON24NM": "Southgate and Wood Green",
                 "REGION": "London",
                 "id": 440
             }
@@ -159552,7 +159552,7 @@
             },
             "properties": {
                 "type": "Feature",
-                "properties.PCON24NM": "Southport",
+                "PCON24NM": "Southport",
                 "REGION": "North West",
                 "id": 441
             }
@@ -159744,7 +159744,7 @@
             },
             "properties": {
                 "type": "Feature",
-                "properties.PCON24NM": "Spelthorne",
+                "PCON24NM": "Spelthorne",
                 "REGION": "South East",
                 "id": 442
             }
@@ -159940,7 +159940,7 @@
             },
             "properties": {
                 "type": "Feature",
-                "properties.PCON24NM": "Spen Valley",
+                "PCON24NM": "Spen Valley",
                 "REGION": "Yorkshire and the Humber",
                 "id": 443
             }
@@ -160172,8 +160172,8 @@
             },
             "properties": {
                 "type": "Feature",
-                "properties.PCON24NM": "St Albans",
-                "REGION": "Eastern",
+                "PCON24NM": "St Albans",
+                "REGION": "East",
                 "id": 444
             }
         },
@@ -161000,7 +161000,7 @@
             },
             "properties": {
                 "type": "Feature",
-                "properties.PCON24NM": "St Austell and Newquay",
+                "PCON24NM": "St Austell and Newquay",
                 "REGION": "South West",
                 "id": 445
             }
@@ -161228,7 +161228,7 @@
             },
             "properties": {
                 "type": "Feature",
-                "properties.PCON24NM": "St Helens North",
+                "PCON24NM": "St Helens North",
                 "REGION": "North West",
                 "id": 446
             }
@@ -161404,7 +161404,7 @@
             },
             "properties": {
                 "type": "Feature",
-                "properties.PCON24NM": "St Helens South and Whiston",
+                "PCON24NM": "St Helens South and Whiston",
                 "REGION": "North West",
                 "id": 447
             }
@@ -163938,7 +163938,7 @@
             },
             "properties": {
                 "type": "Feature",
-                "properties.PCON24NM": "St Ives",
+                "PCON24NM": "St Ives",
                 "REGION": "South West",
                 "id": 448
             }
@@ -164326,8 +164326,8 @@
             },
             "properties": {
                 "type": "Feature",
-                "properties.PCON24NM": "St Neots and Mid Cambridgeshire",
-                "REGION": "Eastern",
+                "PCON24NM": "St Neots and Mid Cambridgeshire",
+                "REGION": "East",
                 "id": 449
             }
         },
@@ -164854,7 +164854,7 @@
             },
             "properties": {
                 "type": "Feature",
-                "properties.PCON24NM": "Stafford",
+                "PCON24NM": "Stafford",
                 "REGION": "West Midlands",
                 "id": 450
             }
@@ -165350,7 +165350,7 @@
             },
             "properties": {
                 "type": "Feature",
-                "properties.PCON24NM": "Staffordshire Moorlands",
+                "PCON24NM": "Staffordshire Moorlands",
                 "REGION": "West Midlands",
                 "id": 451
             }
@@ -165534,7 +165534,7 @@
             },
             "properties": {
                 "type": "Feature",
-                "properties.PCON24NM": "Stalybridge and Hyde",
+                "PCON24NM": "Stalybridge and Hyde",
                 "REGION": "North West",
                 "id": 452
             }
@@ -165806,8 +165806,8 @@
             },
             "properties": {
                 "type": "Feature",
-                "properties.PCON24NM": "Stevenage",
-                "REGION": "Eastern",
+                "PCON24NM": "Stevenage",
+                "REGION": "East",
                 "id": 453
             }
         },
@@ -165934,7 +165934,7 @@
             },
             "properties": {
                 "type": "Feature",
-                "properties.PCON24NM": "Stockport",
+                "PCON24NM": "Stockport",
                 "REGION": "North West",
                 "id": 454
             }
@@ -166238,7 +166238,7 @@
             },
             "properties": {
                 "type": "Feature",
-                "properties.PCON24NM": "Stockton North",
+                "PCON24NM": "Stockton North",
                 "REGION": "North East",
                 "id": 455
             }
@@ -166750,7 +166750,7 @@
             },
             "properties": {
                 "type": "Feature",
-                "properties.PCON24NM": "Stockton West",
+                "PCON24NM": "Stockton West",
                 "REGION": "North East",
                 "id": 456
             }
@@ -166874,7 +166874,7 @@
             },
             "properties": {
                 "type": "Feature",
-                "properties.PCON24NM": "Stoke-on-Trent Central",
+                "PCON24NM": "Stoke-on-Trent Central",
                 "REGION": "West Midlands",
                 "id": 457
             }
@@ -167034,7 +167034,7 @@
             },
             "properties": {
                 "type": "Feature",
-                "properties.PCON24NM": "Stoke-on-Trent North",
+                "PCON24NM": "Stoke-on-Trent North",
                 "REGION": "West Midlands",
                 "id": 458
             }
@@ -167354,7 +167354,7 @@
             },
             "properties": {
                 "type": "Feature",
-                "properties.PCON24NM": "Stoke-on-Trent South",
+                "PCON24NM": "Stoke-on-Trent South",
                 "REGION": "West Midlands",
                 "id": 459
             }
@@ -167954,7 +167954,7 @@
             },
             "properties": {
                 "type": "Feature",
-                "properties.PCON24NM": "Stone, Great Wyrley and Penkridge",
+                "PCON24NM": "Stone, Great Wyrley and Penkridge",
                 "REGION": "West Midlands",
                 "id": 460
             }
@@ -168106,7 +168106,7 @@
             },
             "properties": {
                 "type": "Feature",
-                "properties.PCON24NM": "Stourbridge",
+                "PCON24NM": "Stourbridge",
                 "REGION": "West Midlands",
                 "id": 461
             }
@@ -168222,7 +168222,7 @@
             },
             "properties": {
                 "type": "Feature",
-                "properties.PCON24NM": "Stratford and Bow",
+                "PCON24NM": "Stratford and Bow",
                 "REGION": "London",
                 "id": 462
             }
@@ -168886,7 +168886,7 @@
             },
             "properties": {
                 "type": "Feature",
-                "properties.PCON24NM": "Stratford-on-Avon",
+                "PCON24NM": "Stratford-on-Avon",
                 "REGION": "West Midlands",
                 "id": 463
             }
@@ -168986,7 +168986,7 @@
             },
             "properties": {
                 "type": "Feature",
-                "properties.PCON24NM": "Streatham and Croydon North",
+                "PCON24NM": "Streatham and Croydon North",
                 "REGION": "London",
                 "id": 464
             }
@@ -169122,7 +169122,7 @@
             },
             "properties": {
                 "type": "Feature",
-                "properties.PCON24NM": "Stretford and Urmston",
+                "PCON24NM": "Stretford and Urmston",
                 "REGION": "North West",
                 "id": 465
             }
@@ -169526,7 +169526,7 @@
             },
             "properties": {
                 "type": "Feature",
-                "properties.PCON24NM": "Stroud",
+                "PCON24NM": "Stroud",
                 "REGION": "South West",
                 "id": 466
             }
@@ -171128,8 +171128,8 @@
             },
             "properties": {
                 "type": "Feature",
-                "properties.PCON24NM": "Suffolk Coastal",
-                "REGION": "Eastern",
+                "PCON24NM": "Suffolk Coastal",
+                "REGION": "East",
                 "id": 467
             }
         },
@@ -171388,7 +171388,7 @@
             },
             "properties": {
                 "type": "Feature",
-                "properties.PCON24NM": "Sunderland Central",
+                "PCON24NM": "Sunderland Central",
                 "REGION": "North East",
                 "id": 468
             }
@@ -171592,7 +171592,7 @@
             },
             "properties": {
                 "type": "Feature",
-                "properties.PCON24NM": "Surrey Heath",
+                "PCON24NM": "Surrey Heath",
                 "REGION": "South East",
                 "id": 469
             }
@@ -172192,7 +172192,7 @@
             },
             "properties": {
                 "type": "Feature",
-                "properties.PCON24NM": "Sussex Weald",
+                "PCON24NM": "Sussex Weald",
                 "REGION": "South East",
                 "id": 470
             }
@@ -172300,7 +172300,7 @@
             },
             "properties": {
                 "type": "Feature",
-                "properties.PCON24NM": "Sutton and Cheam",
+                "PCON24NM": "Sutton and Cheam",
                 "REGION": "London",
                 "id": 471
             }
@@ -172452,7 +172452,7 @@
             },
             "properties": {
                 "type": "Feature",
-                "properties.PCON24NM": "Sutton Coldfield",
+                "PCON24NM": "Sutton Coldfield",
                 "REGION": "West Midlands",
                 "id": 472
             }
@@ -172648,7 +172648,7 @@
             },
             "properties": {
                 "type": "Feature",
-                "properties.PCON24NM": "Swindon North",
+                "PCON24NM": "Swindon North",
                 "REGION": "South West",
                 "id": 473
             }
@@ -172800,7 +172800,7 @@
             },
             "properties": {
                 "type": "Feature",
-                "properties.PCON24NM": "Swindon South",
+                "PCON24NM": "Swindon South",
                 "REGION": "South West",
                 "id": 474
             }
@@ -173100,7 +173100,7 @@
             },
             "properties": {
                 "type": "Feature",
-                "properties.PCON24NM": "Tamworth",
+                "PCON24NM": "Tamworth",
                 "REGION": "West Midlands",
                 "id": 475
             }
@@ -173656,7 +173656,7 @@
             },
             "properties": {
                 "type": "Feature",
-                "properties.PCON24NM": "Tatton",
+                "PCON24NM": "Tatton",
                 "REGION": "North West",
                 "id": 476
             }
@@ -174100,7 +174100,7 @@
             },
             "properties": {
                 "type": "Feature",
-                "properties.PCON24NM": "Taunton and Wellington",
+                "PCON24NM": "Taunton and Wellington",
                 "REGION": "South West",
                 "id": 477
             }
@@ -174268,7 +174268,7 @@
             },
             "properties": {
                 "type": "Feature",
-                "properties.PCON24NM": "Telford",
+                "PCON24NM": "Telford",
                 "REGION": "West Midlands",
                 "id": 478
             }
@@ -174832,7 +174832,7 @@
             },
             "properties": {
                 "type": "Feature",
-                "properties.PCON24NM": "Tewkesbury",
+                "PCON24NM": "Tewkesbury",
                 "REGION": "South West",
                 "id": 479
             }
@@ -175468,7 +175468,7 @@
             },
             "properties": {
                 "type": "Feature",
-                "properties.PCON24NM": "The Wrekin",
+                "PCON24NM": "The Wrekin",
                 "REGION": "West Midlands",
                 "id": 480
             }
@@ -176864,7 +176864,7 @@
             },
             "properties": {
                 "type": "Feature",
-                "properties.PCON24NM": "Thirsk and Malton",
+                "PCON24NM": "Thirsk and Malton",
                 "REGION": "Yorkshire and the Humber",
                 "id": 481
             }
@@ -177356,7 +177356,7 @@
             },
             "properties": {
                 "type": "Feature",
-                "properties.PCON24NM": "Thornbury and Yate",
+                "PCON24NM": "Thornbury and Yate",
                 "REGION": "South West",
                 "id": 482
             }
@@ -177552,8 +177552,8 @@
             },
             "properties": {
                 "type": "Feature",
-                "properties.PCON24NM": "Thurrock",
-                "REGION": "Eastern",
+                "PCON24NM": "Thurrock",
+                "REGION": "East",
                 "id": 483
             }
         },
@@ -177700,7 +177700,7 @@
             },
             "properties": {
                 "type": "Feature",
-                "properties.PCON24NM": "Tipton and Wednesbury",
+                "PCON24NM": "Tipton and Wednesbury",
                 "REGION": "West Midlands",
                 "id": 484
             }
@@ -178572,7 +178572,7 @@
             },
             "properties": {
                 "type": "Feature",
-                "properties.PCON24NM": "Tiverton and Minehead",
+                "PCON24NM": "Tiverton and Minehead",
                 "REGION": "South West",
                 "id": 485
             }
@@ -179076,7 +179076,7 @@
             },
             "properties": {
                 "type": "Feature",
-                "properties.PCON24NM": "Tonbridge",
+                "PCON24NM": "Tonbridge",
                 "REGION": "South East",
                 "id": 486
             }
@@ -179188,7 +179188,7 @@
             },
             "properties": {
                 "type": "Feature",
-                "properties.PCON24NM": "Tooting",
+                "PCON24NM": "Tooting",
                 "REGION": "London",
                 "id": 487
             }
@@ -179516,7 +179516,7 @@
             },
             "properties": {
                 "type": "Feature",
-                "properties.PCON24NM": "Torbay",
+                "PCON24NM": "Torbay",
                 "REGION": "South West",
                 "id": 488
             }
@@ -181118,7 +181118,7 @@
             },
             "properties": {
                 "type": "Feature",
-                "properties.PCON24NM": "Torridge and Tavistock",
+                "PCON24NM": "Torridge and Tavistock",
                 "REGION": "South West",
                 "id": 489
             }
@@ -181206,7 +181206,7 @@
             },
             "properties": {
                 "type": "Feature",
-                "properties.PCON24NM": "Tottenham",
+                "PCON24NM": "Tottenham",
                 "REGION": "London",
                 "id": 490
             }
@@ -182846,7 +182846,7 @@
             },
             "properties": {
                 "type": "Feature",
-                "properties.PCON24NM": "Truro and Falmouth",
+                "PCON24NM": "Truro and Falmouth",
                 "REGION": "South West",
                 "id": 491
             }
@@ -183330,7 +183330,7 @@
             },
             "properties": {
                 "type": "Feature",
-                "properties.PCON24NM": "Tunbridge Wells",
+                "PCON24NM": "Tunbridge Wells",
                 "REGION": "South East",
                 "id": 492
             }
@@ -183510,7 +183510,7 @@
             },
             "properties": {
                 "type": "Feature",
-                "properties.PCON24NM": "Twickenham",
+                "PCON24NM": "Twickenham",
                 "REGION": "London",
                 "id": 493
             }
@@ -183750,7 +183750,7 @@
             },
             "properties": {
                 "type": "Feature",
-                "properties.PCON24NM": "Tynemouth",
+                "PCON24NM": "Tynemouth",
                 "REGION": "North East",
                 "id": 494
             }
@@ -183890,7 +183890,7 @@
             },
             "properties": {
                 "type": "Feature",
-                "properties.PCON24NM": "Uxbridge and South Ruislip",
+                "PCON24NM": "Uxbridge and South Ruislip",
                 "REGION": "London",
                 "id": 495
             }
@@ -184002,7 +184002,7 @@
             },
             "properties": {
                 "type": "Feature",
-                "properties.PCON24NM": "Vauxhall and Camberwell Green",
+                "PCON24NM": "Vauxhall and Camberwell Green",
                 "REGION": "London",
                 "id": 496
             }
@@ -184218,7 +184218,7 @@
             },
             "properties": {
                 "type": "Feature",
-                "properties.PCON24NM": "Wakefield and Rothwell",
+                "PCON24NM": "Wakefield and Rothwell",
                 "REGION": "Yorkshire and the Humber",
                 "id": 497
             }
@@ -184350,7 +184350,7 @@
             },
             "properties": {
                 "type": "Feature",
-                "properties.PCON24NM": "Wallasey",
+                "PCON24NM": "Wallasey",
                 "REGION": "North West",
                 "id": 498
             }
@@ -184470,7 +184470,7 @@
             },
             "properties": {
                 "type": "Feature",
-                "properties.PCON24NM": "Walsall and Bloxwich",
+                "PCON24NM": "Walsall and Bloxwich",
                 "REGION": "West Midlands",
                 "id": 499
             }
@@ -184546,7 +184546,7 @@
             },
             "properties": {
                 "type": "Feature",
-                "properties.PCON24NM": "Walthamstow",
+                "PCON24NM": "Walthamstow",
                 "REGION": "London",
                 "id": 500
             }
@@ -184762,7 +184762,7 @@
             },
             "properties": {
                 "type": "Feature",
-                "properties.PCON24NM": "Warrington North",
+                "PCON24NM": "Warrington North",
                 "REGION": "North West",
                 "id": 501
             }
@@ -185006,7 +185006,7 @@
             },
             "properties": {
                 "type": "Feature",
-                "properties.PCON24NM": "Warrington South",
+                "PCON24NM": "Warrington South",
                 "REGION": "North West",
                 "id": 502
             }
@@ -185254,7 +185254,7 @@
             },
             "properties": {
                 "type": "Feature",
-                "properties.PCON24NM": "Warwick and Leamington",
+                "PCON24NM": "Warwick and Leamington",
                 "REGION": "West Midlands",
                 "id": 503
             }
@@ -185478,7 +185478,7 @@
             },
             "properties": {
                 "type": "Feature",
-                "properties.PCON24NM": "Washington and Gateshead South",
+                "PCON24NM": "Washington and Gateshead South",
                 "REGION": "North East",
                 "id": 504
             }
@@ -185606,8 +185606,8 @@
             },
             "properties": {
                 "type": "Feature",
-                "properties.PCON24NM": "Watford",
-                "REGION": "Eastern",
+                "PCON24NM": "Watford",
+                "REGION": "East",
                 "id": 505
             }
         },
@@ -186530,8 +186530,8 @@
             },
             "properties": {
                 "type": "Feature",
-                "properties.PCON24NM": "Waveney Valley",
-                "REGION": "Eastern",
+                "PCON24NM": "Waveney Valley",
+                "REGION": "East",
                 "id": 506
             }
         },
@@ -187366,7 +187366,7 @@
             },
             "properties": {
                 "type": "Feature",
-                "properties.PCON24NM": "Weald of Kent",
+                "PCON24NM": "Weald of Kent",
                 "REGION": "South East",
                 "id": 507
             }
@@ -187570,7 +187570,7 @@
             },
             "properties": {
                 "type": "Feature",
-                "properties.PCON24NM": "Wellingborough and Rushden",
+                "PCON24NM": "Wellingborough and Rushden",
                 "REGION": "East Midlands",
                 "id": 508
             }
@@ -188262,7 +188262,7 @@
             },
             "properties": {
                 "type": "Feature",
-                "properties.PCON24NM": "Wells and Mendip Hills",
+                "PCON24NM": "Wells and Mendip Hills",
                 "REGION": "South West",
                 "id": 509
             }
@@ -188534,8 +188534,8 @@
             },
             "properties": {
                 "type": "Feature",
-                "properties.PCON24NM": "Welwyn Hatfield",
-                "REGION": "Eastern",
+                "PCON24NM": "Welwyn Hatfield",
+                "REGION": "East",
                 "id": 510
             }
         },
@@ -188758,7 +188758,7 @@
             },
             "properties": {
                 "type": "Feature",
-                "properties.PCON24NM": "West Bromwich",
+                "PCON24NM": "West Bromwich",
                 "REGION": "West Midlands",
                 "id": 511
             }
@@ -189722,7 +189722,7 @@
             },
             "properties": {
                 "type": "Feature",
-                "properties.PCON24NM": "West Dorset",
+                "PCON24NM": "West Dorset",
                 "REGION": "South West",
                 "id": 512
             }
@@ -189870,7 +189870,7 @@
             },
             "properties": {
                 "type": "Feature",
-                "properties.PCON24NM": "West Ham and Beckton",
+                "PCON24NM": "West Ham and Beckton",
                 "REGION": "London",
                 "id": 513
             }
@@ -190198,7 +190198,7 @@
             },
             "properties": {
                 "type": "Feature",
-                "properties.PCON24NM": "West Lancashire",
+                "PCON24NM": "West Lancashire",
                 "REGION": "North West",
                 "id": 514
             }
@@ -191014,8 +191014,8 @@
             },
             "properties": {
                 "type": "Feature",
-                "properties.PCON24NM": "West Suffolk",
-                "REGION": "Eastern",
+                "PCON24NM": "West Suffolk",
+                "REGION": "East",
                 "id": 515
             }
         },
@@ -192026,7 +192026,7 @@
             },
             "properties": {
                 "type": "Feature",
-                "properties.PCON24NM": "West Worcestershire",
+                "PCON24NM": "West Worcestershire",
                 "REGION": "West Midlands",
                 "id": 516
             }
@@ -193476,7 +193476,7 @@
             },
             "properties": {
                 "type": "Feature",
-                "properties.PCON24NM": "Westmorland and Lonsdale",
+                "PCON24NM": "Westmorland and Lonsdale",
                 "REGION": "North West",
                 "id": 517
             }
@@ -193762,7 +193762,7 @@
             },
             "properties": {
                 "type": "Feature",
-                "properties.PCON24NM": "Weston-super-Mare",
+                "PCON24NM": "Weston-super-Mare",
                 "REGION": "South West",
                 "id": 518
             }
@@ -194758,7 +194758,7 @@
             },
             "properties": {
                 "type": "Feature",
-                "properties.PCON24NM": "Wetherby and Easingwold",
+                "PCON24NM": "Wetherby and Easingwold",
                 "REGION": "Yorkshire and the Humber",
                 "id": 519
             }
@@ -195314,7 +195314,7 @@
             },
             "properties": {
                 "type": "Feature",
-                "properties.PCON24NM": "Whitehaven and Workington",
+                "PCON24NM": "Whitehaven and Workington",
                 "REGION": "North West",
                 "id": 520
             }
@@ -195530,7 +195530,7 @@
             },
             "properties": {
                 "type": "Feature",
-                "properties.PCON24NM": "Widnes and Halewood",
+                "PCON24NM": "Widnes and Halewood",
                 "REGION": "North West",
                 "id": 521
             }
@@ -195686,7 +195686,7 @@
             },
             "properties": {
                 "type": "Feature",
-                "properties.PCON24NM": "Wigan",
+                "PCON24NM": "Wigan",
                 "REGION": "North West",
                 "id": 522
             }
@@ -195810,7 +195810,7 @@
             },
             "properties": {
                 "type": "Feature",
-                "properties.PCON24NM": "Wimbledon",
+                "PCON24NM": "Wimbledon",
                 "REGION": "London",
                 "id": 523
             }
@@ -196358,7 +196358,7 @@
             },
             "properties": {
                 "type": "Feature",
-                "properties.PCON24NM": "Winchester",
+                "PCON24NM": "Winchester",
                 "REGION": "South East",
                 "id": 524
             }
@@ -196638,7 +196638,7 @@
             },
             "properties": {
                 "type": "Feature",
-                "properties.PCON24NM": "Windsor",
+                "PCON24NM": "Windsor",
                 "REGION": "South East",
                 "id": 525
             }
@@ -196830,7 +196830,7 @@
             },
             "properties": {
                 "type": "Feature",
-                "properties.PCON24NM": "Wirral West",
+                "PCON24NM": "Wirral West",
                 "REGION": "North West",
                 "id": 526
             }
@@ -197654,8 +197654,8 @@
             },
             "properties": {
                 "type": "Feature",
-                "properties.PCON24NM": "Witham",
-                "REGION": "Eastern",
+                "PCON24NM": "Witham",
+                "REGION": "East",
                 "id": 527
             }
         },
@@ -198270,7 +198270,7 @@
             },
             "properties": {
                 "type": "Feature",
-                "properties.PCON24NM": "Witney",
+                "PCON24NM": "Witney",
                 "REGION": "South East",
                 "id": 528
             }
@@ -198446,7 +198446,7 @@
             },
             "properties": {
                 "type": "Feature",
-                "properties.PCON24NM": "Woking",
+                "PCON24NM": "Woking",
                 "REGION": "South East",
                 "id": 529
             }
@@ -198730,7 +198730,7 @@
             },
             "properties": {
                 "type": "Feature",
-                "properties.PCON24NM": "Wokingham",
+                "PCON24NM": "Wokingham",
                 "REGION": "South East",
                 "id": 530
             }
@@ -198842,7 +198842,7 @@
             },
             "properties": {
                 "type": "Feature",
-                "properties.PCON24NM": "Wolverhampton North East",
+                "PCON24NM": "Wolverhampton North East",
                 "REGION": "West Midlands",
                 "id": 531
             }
@@ -198962,7 +198962,7 @@
             },
             "properties": {
                 "type": "Feature",
-                "properties.PCON24NM": "Wolverhampton South East",
+                "PCON24NM": "Wolverhampton South East",
                 "REGION": "West Midlands",
                 "id": 532
             }
@@ -199142,7 +199142,7 @@
             },
             "properties": {
                 "type": "Feature",
-                "properties.PCON24NM": "Wolverhampton West",
+                "PCON24NM": "Wolverhampton West",
                 "REGION": "West Midlands",
                 "id": 533
             }
@@ -199278,7 +199278,7 @@
             },
             "properties": {
                 "type": "Feature",
-                "properties.PCON24NM": "Worcester",
+                "PCON24NM": "Worcester",
                 "REGION": "West Midlands",
                 "id": 534
             }
@@ -199462,7 +199462,7 @@
             },
             "properties": {
                 "type": "Feature",
-                "properties.PCON24NM": "Worsley and Eccles",
+                "PCON24NM": "Worsley and Eccles",
                 "REGION": "North West",
                 "id": 535
             }
@@ -199678,7 +199678,7 @@
             },
             "properties": {
                 "type": "Feature",
-                "properties.PCON24NM": "Worthing West",
+                "PCON24NM": "Worthing West",
                 "REGION": "South East",
                 "id": 536
             }
@@ -200018,7 +200018,7 @@
             },
             "properties": {
                 "type": "Feature",
-                "properties.PCON24NM": "Wycombe",
+                "PCON24NM": "Wycombe",
                 "REGION": "South East",
                 "id": 537
             }
@@ -200382,7 +200382,7 @@
             },
             "properties": {
                 "type": "Feature",
-                "properties.PCON24NM": "Wyre Forest",
+                "PCON24NM": "Wyre Forest",
                 "REGION": "West Midlands",
                 "id": 538
             }
@@ -200522,7 +200522,7 @@
             },
             "properties": {
                 "type": "Feature",
-                "properties.PCON24NM": "Wythenshawe and Sale East",
+                "PCON24NM": "Wythenshawe and Sale East",
                 "REGION": "North West",
                 "id": 539
             }
@@ -201018,7 +201018,7 @@
             },
             "properties": {
                 "type": "Feature",
-                "properties.PCON24NM": "Yeovil",
+                "PCON24NM": "Yeovil",
                 "REGION": "South West",
                 "id": 540
             }
@@ -201230,7 +201230,7 @@
             },
             "properties": {
                 "type": "Feature",
-                "properties.PCON24NM": "York Central",
+                "PCON24NM": "York Central",
                 "REGION": "Yorkshire and the Humber",
                 "id": 541
             }
@@ -201820,7 +201820,7 @@
             },
             "properties": {
                 "type": "Feature",
-                "properties.PCON24NM": "York Outer",
+                "PCON24NM": "York Outer",
                 "REGION": "Yorkshire and the Humber",
                 "id": 542
             }
@@ -202008,7 +202008,7 @@
             },
             "properties": {
                 "type": "Feature",
-                "properties.PCON24NM": "Belfast East",
+                "PCON24NM": "Belfast East",
                 "REGION": "Northern Ireland",
                 "id": 543
             }
@@ -202144,7 +202144,7 @@
             },
             "properties": {
                 "type": "Feature",
-                "properties.PCON24NM": "Belfast North",
+                "PCON24NM": "Belfast North",
                 "REGION": "Northern Ireland",
                 "id": 544
             }
@@ -202444,7 +202444,7 @@
             },
             "properties": {
                 "type": "Feature",
-                "properties.PCON24NM": "Belfast South and Mid Down",
+                "PCON24NM": "Belfast South and Mid Down",
                 "REGION": "Northern Ireland",
                 "id": 545
             }
@@ -202596,7 +202596,7 @@
             },
             "properties": {
                 "type": "Feature",
-                "properties.PCON24NM": "Belfast West",
+                "PCON24NM": "Belfast West",
                 "REGION": "Northern Ireland",
                 "id": 546
             }
@@ -203556,7 +203556,7 @@
             },
             "properties": {
                 "type": "Feature",
-                "properties.PCON24NM": "East Antrim",
+                "PCON24NM": "East Antrim",
                 "REGION": "Northern Ireland",
                 "id": 547
             }
@@ -204504,7 +204504,7 @@
             },
             "properties": {
                 "type": "Feature",
-                "properties.PCON24NM": "East Londonderry",
+                "PCON24NM": "East Londonderry",
                 "REGION": "Northern Ireland",
                 "id": 548
             }
@@ -206448,7 +206448,7 @@
             },
             "properties": {
                 "type": "Feature",
-                "properties.PCON24NM": "Fermanagh and South Tyrone",
+                "PCON24NM": "Fermanagh and South Tyrone",
                 "REGION": "Northern Ireland",
                 "id": 549
             }
@@ -206824,7 +206824,7 @@
             },
             "properties": {
                 "type": "Feature",
-                "properties.PCON24NM": "Foyle",
+                "PCON24NM": "Foyle",
                 "REGION": "Northern Ireland",
                 "id": 550
             }
@@ -207476,7 +207476,7 @@
             },
             "properties": {
                 "type": "Feature",
-                "properties.PCON24NM": "Lagan Valley",
+                "PCON24NM": "Lagan Valley",
                 "REGION": "Northern Ireland",
                 "id": 551
             }
@@ -208288,7 +208288,7 @@
             },
             "properties": {
                 "type": "Feature",
-                "properties.PCON24NM": "Mid Ulster",
+                "PCON24NM": "Mid Ulster",
                 "REGION": "Northern Ireland",
                 "id": 552
             }
@@ -209148,7 +209148,7 @@
             },
             "properties": {
                 "type": "Feature",
-                "properties.PCON24NM": "Newry and Armagh",
+                "PCON24NM": "Newry and Armagh",
                 "REGION": "Northern Ireland",
                 "id": 553
             }
@@ -210114,7 +210114,7 @@
             },
             "properties": {
                 "type": "Feature",
-                "properties.PCON24NM": "North Antrim",
+                "PCON24NM": "North Antrim",
                 "REGION": "Northern Ireland",
                 "id": 554
             }
@@ -210632,7 +210632,7 @@
             },
             "properties": {
                 "type": "Feature",
-                "properties.PCON24NM": "North Down",
+                "PCON24NM": "North Down",
                 "REGION": "Northern Ireland",
                 "id": 555
             }
@@ -211204,7 +211204,7 @@
             },
             "properties": {
                 "type": "Feature",
-                "properties.PCON24NM": "South Antrim",
+                "PCON24NM": "South Antrim",
                 "REGION": "Northern Ireland",
                 "id": 556
             }
@@ -212352,7 +212352,7 @@
             },
             "properties": {
                 "type": "Feature",
-                "properties.PCON24NM": "South Down",
+                "PCON24NM": "South Down",
                 "REGION": "Northern Ireland",
                 "id": 557
             }
@@ -213300,7 +213300,7 @@
             },
             "properties": {
                 "type": "Feature",
-                "properties.PCON24NM": "Strangford",
+                "PCON24NM": "Strangford",
                 "REGION": "Northern Ireland",
                 "id": 558
             }
@@ -213792,7 +213792,7 @@
             },
             "properties": {
                 "type": "Feature",
-                "properties.PCON24NM": "Upper Bann",
+                "PCON24NM": "Upper Bann",
                 "REGION": "Northern Ireland",
                 "id": 559
             }
@@ -215176,7 +215176,7 @@
             },
             "properties": {
                 "type": "Feature",
-                "properties.PCON24NM": "West Tyrone",
+                "PCON24NM": "West Tyrone",
                 "REGION": "Northern Ireland",
                 "id": 560
             }
@@ -215520,7 +215520,7 @@
             },
             "properties": {
                 "type": "Feature",
-                "properties.PCON24NM": "East Renfrewshire",
+                "PCON24NM": "East Renfrewshire",
                 "REGION": "Scotland",
                 "id": 561
             }
@@ -236294,7 +236294,7 @@
             },
             "properties": {
                 "type": "Feature",
-                "properties.PCON24NM": "Na h-Eileanan an Iar",
+                "PCON24NM": "Na h-Eileanan an Iar",
                 "REGION": "Scotland",
                 "id": 562
             }
@@ -236726,7 +236726,7 @@
             },
             "properties": {
                 "type": "Feature",
-                "properties.PCON24NM": "Midlothian",
+                "PCON24NM": "Midlothian",
                 "REGION": "Scotland",
                 "id": 563
             }
@@ -238016,7 +238016,7 @@
             },
             "properties": {
                 "type": "Feature",
-                "properties.PCON24NM": "North Ayrshire and Arran",
+                "PCON24NM": "North Ayrshire and Arran",
                 "REGION": "Scotland",
                 "id": 564
             }
@@ -257150,7 +257150,7 @@
             },
             "properties": {
                 "type": "Feature",
-                "properties.PCON24NM": "Orkney and Shetland",
+                "PCON24NM": "Orkney and Shetland",
                 "REGION": "Scotland",
                 "id": 565
             }
@@ -257362,7 +257362,7 @@
             },
             "properties": {
                 "type": "Feature",
-                "properties.PCON24NM": "Aberdeen North",
+                "PCON24NM": "Aberdeen North",
                 "REGION": "Scotland",
                 "id": 566
             }
@@ -257674,7 +257674,7 @@
             },
             "properties": {
                 "type": "Feature",
-                "properties.PCON24NM": "Aberdeen South",
+                "PCON24NM": "Aberdeen South",
                 "REGION": "Scotland",
                 "id": 567
             }
@@ -259330,7 +259330,7 @@
             },
             "properties": {
                 "type": "Feature",
-                "properties.PCON24NM": "Aberdeenshire North and Moray East",
+                "PCON24NM": "Aberdeenshire North and Moray East",
                 "REGION": "Scotland",
                 "id": 568
             }
@@ -259630,7 +259630,7 @@
             },
             "properties": {
                 "type": "Feature",
-                "properties.PCON24NM": "Airdrie and Shotts",
+                "PCON24NM": "Airdrie and Shotts",
                 "REGION": "Scotland",
                 "id": 569
             }
@@ -260272,7 +260272,7 @@
             },
             "properties": {
                 "type": "Feature",
-                "properties.PCON24NM": "Alloa and Grangemouth",
+                "PCON24NM": "Alloa and Grangemouth",
                 "REGION": "Scotland",
                 "id": 570
             }
@@ -262152,7 +262152,7 @@
             },
             "properties": {
                 "type": "Feature",
-                "properties.PCON24NM": "Angus and Perthshire Glens",
+                "PCON24NM": "Angus and Perthshire Glens",
                 "REGION": "Scotland",
                 "id": 571
             }
@@ -262644,7 +262644,7 @@
             },
             "properties": {
                 "type": "Feature",
-                "properties.PCON24NM": "Arbroath and Broughty Ferry",
+                "PCON24NM": "Arbroath and Broughty Ferry",
                 "REGION": "Scotland",
                 "id": 572
             }
@@ -283930,7 +283930,7 @@
             },
             "properties": {
                 "type": "Feature",
-                "properties.PCON24NM": "Argyll, Bute and South Lochaber",
+                "PCON24NM": "Argyll, Bute and South Lochaber",
                 "REGION": "Scotland",
                 "id": 573
             }
@@ -284354,7 +284354,7 @@
             },
             "properties": {
                 "type": "Feature",
-                "properties.PCON24NM": "Bathgate and Linlithgow",
+                "PCON24NM": "Bathgate and Linlithgow",
                 "REGION": "Scotland",
                 "id": 574
             }
@@ -294624,7 +294624,7 @@
             },
             "properties": {
                 "type": "Feature",
-                "properties.PCON24NM": "Caithness, Sutherland and Easter Ross",
+                "PCON24NM": "Caithness, Sutherland and Easter Ross",
                 "REGION": "Scotland",
                 "id": 575
             }
@@ -294852,7 +294852,7 @@
             },
             "properties": {
                 "type": "Feature",
-                "properties.PCON24NM": "Coatbridge and Bellshill",
+                "PCON24NM": "Coatbridge and Bellshill",
                 "REGION": "Scotland",
                 "id": 576
             }
@@ -295302,7 +295302,7 @@
             },
             "properties": {
                 "type": "Feature",
-                "properties.PCON24NM": "Cowdenbeath and Kirkcaldy",
+                "PCON24NM": "Cowdenbeath and Kirkcaldy",
                 "REGION": "Scotland",
                 "id": 577
             }
@@ -295646,7 +295646,7 @@
             },
             "properties": {
                 "type": "Feature",
-                "properties.PCON24NM": "Cumbernauld and Kirkintilloch",
+                "PCON24NM": "Cumbernauld and Kirkintilloch",
                 "REGION": "Scotland",
                 "id": 578
             }
@@ -298672,7 +298672,7 @@
             },
             "properties": {
                 "type": "Feature",
-                "properties.PCON24NM": "Dumfries and Galloway",
+                "PCON24NM": "Dumfries and Galloway",
                 "REGION": "Scotland",
                 "id": 579
             }
@@ -300348,7 +300348,7 @@
             },
             "properties": {
                 "type": "Feature",
-                "properties.PCON24NM": "Dumfriesshire, Clydesdale and Tweeddale",
+                "PCON24NM": "Dumfriesshire, Clydesdale and Tweeddale",
                 "REGION": "Scotland",
                 "id": 580
             }
@@ -300528,7 +300528,7 @@
             },
             "properties": {
                 "type": "Feature",
-                "properties.PCON24NM": "Dundee Central",
+                "PCON24NM": "Dundee Central",
                 "REGION": "Scotland",
                 "id": 581
             }
@@ -301008,7 +301008,7 @@
             },
             "properties": {
                 "type": "Feature",
-                "properties.PCON24NM": "Dunfermline and Dollar",
+                "PCON24NM": "Dunfermline and Dollar",
                 "REGION": "Scotland",
                 "id": 582
             }
@@ -301420,7 +301420,7 @@
             },
             "properties": {
                 "type": "Feature",
-                "properties.PCON24NM": "East Kilbride and Strathaven",
+                "PCON24NM": "East Kilbride and Strathaven",
                 "REGION": "Scotland",
                 "id": 583
             }
@@ -301608,7 +301608,7 @@
             },
             "properties": {
                 "type": "Feature",
-                "properties.PCON24NM": "Edinburgh East and Musselburgh",
+                "PCON24NM": "Edinburgh East and Musselburgh",
                 "REGION": "Scotland",
                 "id": 584
             }
@@ -301760,7 +301760,7 @@
             },
             "properties": {
                 "type": "Feature",
-                "properties.PCON24NM": "Edinburgh North and Leith",
+                "PCON24NM": "Edinburgh North and Leith",
                 "REGION": "Scotland",
                 "id": 585
             }
@@ -301896,7 +301896,7 @@
             },
             "properties": {
                 "type": "Feature",
-                "properties.PCON24NM": "Edinburgh South",
+                "PCON24NM": "Edinburgh South",
                 "REGION": "Scotland",
                 "id": 586
             }
@@ -302120,7 +302120,7 @@
             },
             "properties": {
                 "type": "Feature",
-                "properties.PCON24NM": "Edinburgh South West",
+                "PCON24NM": "Edinburgh South West",
                 "REGION": "Scotland",
                 "id": 587
             }
@@ -302400,7 +302400,7 @@
             },
             "properties": {
                 "type": "Feature",
-                "properties.PCON24NM": "Edinburgh West",
+                "PCON24NM": "Edinburgh West",
                 "REGION": "Scotland",
                 "id": 588
             }
@@ -302748,7 +302748,7 @@
             },
             "properties": {
                 "type": "Feature",
-                "properties.PCON24NM": "Falkirk",
+                "PCON24NM": "Falkirk",
                 "REGION": "Scotland",
                 "id": 589
             }
@@ -302892,7 +302892,7 @@
             },
             "properties": {
                 "type": "Feature",
-                "properties.PCON24NM": "Glasgow East",
+                "PCON24NM": "Glasgow East",
                 "REGION": "Scotland",
                 "id": 590
             }
@@ -303032,7 +303032,7 @@
             },
             "properties": {
                 "type": "Feature",
-                "properties.PCON24NM": "Glasgow North",
+                "PCON24NM": "Glasgow North",
                 "REGION": "Scotland",
                 "id": 591
             }
@@ -303164,7 +303164,7 @@
             },
             "properties": {
                 "type": "Feature",
-                "properties.PCON24NM": "Glasgow North East",
+                "PCON24NM": "Glasgow North East",
                 "REGION": "Scotland",
                 "id": 592
             }
@@ -303340,7 +303340,7 @@
             },
             "properties": {
                 "type": "Feature",
-                "properties.PCON24NM": "Glasgow South",
+                "PCON24NM": "Glasgow South",
                 "REGION": "Scotland",
                 "id": 593
             }
@@ -303464,7 +303464,7 @@
             },
             "properties": {
                 "type": "Feature",
-                "properties.PCON24NM": "Glasgow South West",
+                "PCON24NM": "Glasgow South West",
                 "REGION": "Scotland",
                 "id": 594
             }
@@ -303572,7 +303572,7 @@
             },
             "properties": {
                 "type": "Feature",
-                "properties.PCON24NM": "Glasgow West",
+                "PCON24NM": "Glasgow West",
                 "REGION": "Scotland",
                 "id": 595
             }
@@ -303928,7 +303928,7 @@
             },
             "properties": {
                 "type": "Feature",
-                "properties.PCON24NM": "Glenrothes and Mid Fife",
+                "PCON24NM": "Glenrothes and Mid Fife",
                 "REGION": "Scotland",
                 "id": 596
             }
@@ -304996,7 +304996,7 @@
             },
             "properties": {
                 "type": "Feature",
-                "properties.PCON24NM": "Gordon and Buchan",
+                "PCON24NM": "Gordon and Buchan",
                 "REGION": "Scotland",
                 "id": 597
             }
@@ -305440,7 +305440,7 @@
             },
             "properties": {
                 "type": "Feature",
-                "properties.PCON24NM": "Hamilton and Clyde Valley",
+                "PCON24NM": "Hamilton and Clyde Valley",
                 "REGION": "Scotland",
                 "id": 598
             }
@@ -305820,7 +305820,7 @@
             },
             "properties": {
                 "type": "Feature",
-                "properties.PCON24NM": "Inverclyde and Renfrewshire West",
+                "PCON24NM": "Inverclyde and Renfrewshire West",
                 "REGION": "Scotland",
                 "id": 599
             }
@@ -316542,7 +316542,7 @@
             },
             "properties": {
                 "type": "Feature",
-                "properties.PCON24NM": "Inverness, Skye and West Ross-shire",
+                "PCON24NM": "Inverness, Skye and West Ross-shire",
                 "REGION": "Scotland",
                 "id": 600
             }
@@ -316894,7 +316894,7 @@
             },
             "properties": {
                 "type": "Feature",
-                "properties.PCON24NM": "Livingston",
+                "PCON24NM": "Livingston",
                 "REGION": "Scotland",
                 "id": 601
             }
@@ -317676,7 +317676,7 @@
             },
             "properties": {
                 "type": "Feature",
-                "properties.PCON24NM": "Lothian East",
+                "PCON24NM": "Lothian East",
                 "REGION": "Scotland",
                 "id": 602
             }
@@ -318012,7 +318012,7 @@
             },
             "properties": {
                 "type": "Feature",
-                "properties.PCON24NM": "Mid Dunbartonshire",
+                "PCON24NM": "Mid Dunbartonshire",
                 "REGION": "Scotland",
                 "id": 603
             }
@@ -319978,7 +319978,7 @@
             },
             "properties": {
                 "type": "Feature",
-                "properties.PCON24NM": "Moray West, Nairn and Strathspey",
+                "PCON24NM": "Moray West, Nairn and Strathspey",
                 "REGION": "Scotland",
                 "id": 604
             }
@@ -320334,7 +320334,7 @@
             },
             "properties": {
                 "type": "Feature",
-                "properties.PCON24NM": "Motherwell, Wishaw and Carluke",
+                "PCON24NM": "Motherwell, Wishaw and Carluke",
                 "REGION": "Scotland",
                 "id": 605
             }
@@ -321116,7 +321116,7 @@
             },
             "properties": {
                 "type": "Feature",
-                "properties.PCON24NM": "North East Fife",
+                "PCON24NM": "North East Fife",
                 "REGION": "Scotland",
                 "id": 606
             }
@@ -321408,7 +321408,7 @@
             },
             "properties": {
                 "type": "Feature",
-                "properties.PCON24NM": "Paisley and Renfrewshire North",
+                "PCON24NM": "Paisley and Renfrewshire North",
                 "REGION": "Scotland",
                 "id": 607
             }
@@ -321756,7 +321756,7 @@
             },
             "properties": {
                 "type": "Feature",
-                "properties.PCON24NM": "Paisley and Renfrewshire South",
+                "PCON24NM": "Paisley and Renfrewshire South",
                 "REGION": "Scotland",
                 "id": 608
             }
@@ -322868,7 +322868,7 @@
             },
             "properties": {
                 "type": "Feature",
-                "properties.PCON24NM": "Perth and Kinross-shire",
+                "PCON24NM": "Perth and Kinross-shire",
                 "REGION": "Scotland",
                 "id": 609
             }
@@ -323056,7 +323056,7 @@
             },
             "properties": {
                 "type": "Feature",
-                "properties.PCON24NM": "Rutherglen",
+                "PCON24NM": "Rutherglen",
                 "REGION": "Scotland",
                 "id": 610
             }
@@ -324304,7 +324304,7 @@
             },
             "properties": {
                 "type": "Feature",
-                "properties.PCON24NM": "Stirling and Strathallan",
+                "PCON24NM": "Stirling and Strathallan",
                 "REGION": "Scotland",
                 "id": 611
             }
@@ -324676,7 +324676,7 @@
             },
             "properties": {
                 "type": "Feature",
-                "properties.PCON24NM": "West Dunbartonshire",
+                "PCON24NM": "West Dunbartonshire",
                 "REGION": "Scotland",
                 "id": 612
             }
@@ -325810,7 +325810,7 @@
             },
             "properties": {
                 "type": "Feature",
-                "properties.PCON24NM": "Ayr, Carrick and Cumnock",
+                "PCON24NM": "Ayr, Carrick and Cumnock",
                 "REGION": "Scotland",
                 "id": 613
             }
@@ -327410,7 +327410,7 @@
             },
             "properties": {
                 "type": "Feature",
-                "properties.PCON24NM": "Berwickshire, Roxburgh and Selkirk",
+                "PCON24NM": "Berwickshire, Roxburgh and Selkirk",
                 "REGION": "Scotland",
                 "id": 614
             }
@@ -328002,7 +328002,7 @@
             },
             "properties": {
                 "type": "Feature",
-                "properties.PCON24NM": "Central Ayrshire",
+                "PCON24NM": "Central Ayrshire",
                 "REGION": "Scotland",
                 "id": 615
             }
@@ -328738,7 +328738,7 @@
             },
             "properties": {
                 "type": "Feature",
-                "properties.PCON24NM": "Kilmarnock and Loudoun",
+                "PCON24NM": "Kilmarnock and Loudoun",
                 "REGION": "Scotland",
                 "id": 616
             }
@@ -330426,7 +330426,7 @@
             },
             "properties": {
                 "type": "Feature",
-                "properties.PCON24NM": "West Aberdeenshire and Kincardine",
+                "PCON24NM": "West Aberdeenshire and Kincardine",
                 "REGION": "Scotland",
                 "id": 617
             }
@@ -330886,7 +330886,7 @@
             },
             "properties": {
                 "type": "Feature",
-                "properties.PCON24NM": "Aberafan Maesteg",
+                "PCON24NM": "Aberafan Maesteg",
                 "REGION": "Wales",
                 "id": 618
             }
@@ -331456,7 +331456,7 @@
             },
             "properties": {
                 "type": "Feature",
-                "properties.PCON24NM": "Alyn and Deeside",
+                "PCON24NM": "Alyn and Deeside",
                 "REGION": "Wales",
                 "id": 619
             }
@@ -332592,7 +332592,7 @@
             },
             "properties": {
                 "type": "Feature",
-                "properties.PCON24NM": "Bangor Aberconwy",
+                "PCON24NM": "Bangor Aberconwy",
                 "REGION": "Wales",
                 "id": 620
             }
@@ -332824,7 +332824,7 @@
             },
             "properties": {
                 "type": "Feature",
-                "properties.PCON24NM": "Blaenau Gwent and Rhymney",
+                "PCON24NM": "Blaenau Gwent and Rhymney",
                 "REGION": "Wales",
                 "id": 621
             }
@@ -334036,7 +334036,7 @@
             },
             "properties": {
                 "type": "Feature",
-                "properties.PCON24NM": "Brecon, Radnor and Cwm Tawe",
+                "PCON24NM": "Brecon, Radnor and Cwm Tawe",
                 "REGION": "Wales",
                 "id": 622
             }
@@ -334332,7 +334332,7 @@
             },
             "properties": {
                 "type": "Feature",
-                "properties.PCON24NM": "Bridgend",
+                "PCON24NM": "Bridgend",
                 "REGION": "Wales",
                 "id": 623
             }
@@ -335588,7 +335588,7 @@
             },
             "properties": {
                 "type": "Feature",
-                "properties.PCON24NM": "Caerfyrddin",
+                "PCON24NM": "Caerfyrddin",
                 "REGION": "Wales",
                 "id": 624
             }
@@ -335848,7 +335848,7 @@
             },
             "properties": {
                 "type": "Feature",
-                "properties.PCON24NM": "Caerphilly",
+                "PCON24NM": "Caerphilly",
                 "REGION": "Wales",
                 "id": 625
             }
@@ -335984,7 +335984,7 @@
             },
             "properties": {
                 "type": "Feature",
-                "properties.PCON24NM": "Cardiff East",
+                "PCON24NM": "Cardiff East",
                 "REGION": "Wales",
                 "id": 626
             }
@@ -336152,7 +336152,7 @@
             },
             "properties": {
                 "type": "Feature",
-                "properties.PCON24NM": "Cardiff North",
+                "PCON24NM": "Cardiff North",
                 "REGION": "Wales",
                 "id": 627
             }
@@ -336406,7 +336406,7 @@
             },
             "properties": {
                 "type": "Feature",
-                "properties.PCON24NM": "Cardiff South and Penarth",
+                "PCON24NM": "Cardiff South and Penarth",
                 "REGION": "Wales",
                 "id": 628
             }
@@ -336602,7 +336602,7 @@
             },
             "properties": {
                 "type": "Feature",
-                "properties.PCON24NM": "Cardiff West",
+                "PCON24NM": "Cardiff West",
                 "REGION": "Wales",
                 "id": 629
             }
@@ -339128,7 +339128,7 @@
             },
             "properties": {
                 "type": "Feature",
-                "properties.PCON24NM": "Ceredigion Preseli",
+                "PCON24NM": "Ceredigion Preseli",
                 "REGION": "Wales",
                 "id": 630
             }
@@ -339856,7 +339856,7 @@
             },
             "properties": {
                 "type": "Feature",
-                "properties.PCON24NM": "Clwyd East",
+                "PCON24NM": "Clwyd East",
                 "REGION": "Wales",
                 "id": 631
             }
@@ -340320,7 +340320,7 @@
             },
             "properties": {
                 "type": "Feature",
-                "properties.PCON24NM": "Clwyd North",
+                "PCON24NM": "Clwyd North",
                 "REGION": "Wales",
                 "id": 632
             }
@@ -342706,7 +342706,7 @@
             },
             "properties": {
                 "type": "Feature",
-                "properties.PCON24NM": "Dwyfor Meirionnydd",
+                "PCON24NM": "Dwyfor Meirionnydd",
                 "REGION": "Wales",
                 "id": 633
             }
@@ -343660,7 +343660,7 @@
             },
             "properties": {
                 "type": "Feature",
-                "properties.PCON24NM": "Gower",
+                "PCON24NM": "Gower",
                 "REGION": "Wales",
                 "id": 634
             }
@@ -344642,7 +344642,7 @@
             },
             "properties": {
                 "type": "Feature",
-                "properties.PCON24NM": "Llanelli",
+                "PCON24NM": "Llanelli",
                 "REGION": "Wales",
                 "id": 635
             }
@@ -344902,7 +344902,7 @@
             },
             "properties": {
                 "type": "Feature",
-                "properties.PCON24NM": "Merthyr Tydfil and Aberdare",
+                "PCON24NM": "Merthyr Tydfil and Aberdare",
                 "REGION": "Wales",
                 "id": 636
             }
@@ -347536,7 +347536,7 @@
             },
             "properties": {
                 "type": "Feature",
-                "properties.PCON24NM": "Mid and South Pembrokeshire",
+                "PCON24NM": "Mid and South Pembrokeshire",
                 "REGION": "Wales",
                 "id": 637
             }
@@ -348364,7 +348364,7 @@
             },
             "properties": {
                 "type": "Feature",
-                "properties.PCON24NM": "Monmouthshire",
+                "PCON24NM": "Monmouthshire",
                 "REGION": "Wales",
                 "id": 638
             }
@@ -349648,7 +349648,7 @@
             },
             "properties": {
                 "type": "Feature",
-                "properties.PCON24NM": "Montgomeryshire and Glyndwr",
+                "PCON24NM": "Montgomeryshire and Glyndwr",
                 "REGION": "Wales",
                 "id": 639
             }
@@ -350058,7 +350058,7 @@
             },
             "properties": {
                 "type": "Feature",
-                "properties.PCON24NM": "Neath and Swansea East",
+                "PCON24NM": "Neath and Swansea East",
                 "REGION": "Wales",
                 "id": 640
             }
@@ -350478,7 +350478,7 @@
             },
             "properties": {
                 "type": "Feature",
-                "properties.PCON24NM": "Newport East",
+                "PCON24NM": "Newport East",
                 "REGION": "Wales",
                 "id": 641
             }
@@ -350858,7 +350858,7 @@
             },
             "properties": {
                 "type": "Feature",
-                "properties.PCON24NM": "Newport West and Islwyn",
+                "PCON24NM": "Newport West and Islwyn",
                 "REGION": "Wales",
                 "id": 642
             }
@@ -351174,7 +351174,7 @@
             },
             "properties": {
                 "type": "Feature",
-                "properties.PCON24NM": "Pontypridd",
+                "PCON24NM": "Pontypridd",
                 "REGION": "Wales",
                 "id": 643
             }
@@ -351418,7 +351418,7 @@
             },
             "properties": {
                 "type": "Feature",
-                "properties.PCON24NM": "Rhondda and Ogmore",
+                "PCON24NM": "Rhondda and Ogmore",
                 "REGION": "Wales",
                 "id": 644
             }
@@ -351578,7 +351578,7 @@
             },
             "properties": {
                 "type": "Feature",
-                "properties.PCON24NM": "Swansea West",
+                "PCON24NM": "Swansea West",
                 "REGION": "Wales",
                 "id": 645
             }
@@ -351850,7 +351850,7 @@
             },
             "properties": {
                 "type": "Feature",
-                "properties.PCON24NM": "Torfaen",
+                "PCON24NM": "Torfaen",
                 "REGION": "Wales",
                 "id": 646
             }
@@ -352230,7 +352230,7 @@
             },
             "properties": {
                 "type": "Feature",
-                "properties.PCON24NM": "Vale of Glamorgan",
+                "PCON24NM": "Vale of Glamorgan",
                 "REGION": "Wales",
                 "id": 647
             }
@@ -352714,7 +352714,7 @@
             },
             "properties": {
                 "type": "Feature",
-                "properties.PCON24NM": "Wrexham",
+                "PCON24NM": "Wrexham",
                 "REGION": "Wales",
                 "id": 648
             }
@@ -354628,7 +354628,7 @@
             },
             "properties": {
                 "type": "Feature",
-                "properties.PCON24NM": "Ynys M\u00c3\u00b4n",
+                "PCON24NM": "Ynys M\u00c3\u00b4n",
                 "REGION": "Wales",
                 "id": 649
             }
