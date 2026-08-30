@@ -5,9 +5,8 @@ import 'leaflet/dist/leaflet.css';
 import RegionsMap from '../../../assets/RegionsMap.json';
 import ConstituenciesMap from '../../../assets/Constituencies.json';
 import exitButton from '../../../assets/left-arrow.svg';
-import { useState } from "react";
-import Embedded_Accordian from "../../../Components/Embedded_Accordian/Embedded_Accordian";
-import { Bar } from "../../../Components/Embedded_Accordian/Embedded_Accordian";
+import { useState, useEffect } from "react";
+import Embedded_Accordian, { Bar } from "../../../Components/Embedded_Accordian/Embedded_Accordian";
 
 function Route_Creator() {
     const [currentArea, SetArea] = useState(null);
@@ -217,9 +216,34 @@ function Generation_Parameters() {
 }
 
 function Manual_Selection({constituency}){
+    const [areaStats, SetAreaStats] = useState(null);
+
+    useEffect(() => {
+        const fetchData = async () => {
+            try{
+                const response = await fetch('http://localhost:8000/wards/count/Ainsdale')
+                if (!response.ok){
+                    throw new Error("Failed to fetch")
+                }
+
+                const data = await response.json();
+                SetAreaStats(data);
+                console.log(data);
+            }
+            catch (err) {
+                null
+            }
+        }
+
+        fetchData();
+    }, [])
+
+
     return(
-        <Embedded_Accordian title={"Select Roads from the Constituency: "} constituency={constituency}>
-            <Bar location={"balls"} />
+        <Embedded_Accordian title={"Select Roads from the Constituency: "} constituency={constituency} areaStats={areaStats}>
+            <Bar location={"Balls"} areaStats={areaStats}>
+                <Bar location={"Balls"}/>
+            </Bar>
         </Embedded_Accordian>
     );
 }
