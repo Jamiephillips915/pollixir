@@ -157,7 +157,7 @@ function Selection_Map({ currentArea, SetArea }) {
                     opacity: '0.25'
                 });
             },
-            click: (e) => {
+            click: () => {
                 const constituency = feature.properties.PCON24NM;
                 SetArea("Constituency: " + constituency);
             }
