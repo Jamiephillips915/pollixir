@@ -50,6 +50,7 @@ function Selection_Map({ currentArea, SetArea }) {
     const [activeLayer, SetActiveLayer] = useState(RegionsMap)
     const [currentZoom, SetZoom] = useState(6);
     const [currentCenter, SetCenter] = useState([53.663, -4.760])
+    const [isRegionView, setIsRegionView] = useState(true);
 
     const regionOnEachFeature = (feature, layer) => {
         layer.on({
@@ -135,13 +136,12 @@ function Selection_Map({ currentArea, SetArea }) {
                         break;
                 }
                 SetActiveLayer(filteredMap);
+                setIsRegionView(false);
                 SetFeatureFunction(() => constituencyOnEachFeature);
             }
         }
         );
     }
-
-    const [activeFeatureFunction, SetFeatureFunction] = useState(() => regionOnEachFeature);
 
     const constituencyOnEachFeature = (feature, layer) => {
         layer.on({
@@ -172,11 +172,11 @@ function Selection_Map({ currentArea, SetArea }) {
                 <div className={styles.map}>
                     <MapContainer key={activeLayer === RegionsMap ? "regions" : "constituencies"} center={currentCenter} maxBounds={[[49.5, -11], [61, 2]]} zoom={currentZoom} minZoom={currentZoom} maxBoundsViscosity={1} attributionControl={false}>
                         <TileLayer url="https://server.arcgisonline.com/ArcGIS/rest/services/Canvas/World_Light_Gray_Base/MapServer/tile/{z}/{y}/{x}" />
-                        <GeoJSON data={activeLayer} style={regionStyle} onEachFeature={activeFeatureFunction} />
+                        <GeoJSON data={activeLayer} style={regionStyle} onEachFeature={isRegionView ? regionOnEachFeature : constituencyOnEachFeature} />
                     </MapContainer>
                     <p className={styles.areaTitle}>{currentArea}</p>
                 </div>
-                <div className={styles.mapBackButton} onClick={() => { SetActiveLayer(RegionsMap), SetZoom(6), SetArea("Select an Area"), SetFeatureFunction(() => regionOnEachFeature) }}>
+                <div className={styles.mapBackButton} onClick={() => { SetActiveLayer(RegionsMap), SetZoom(6), SetArea("Select an Area"), SetFeatureFunction(() => regionOnEachFeature), setIsRegionView(true) }}>
                     <img src={exitButton} />
                 </div>
             </div>
