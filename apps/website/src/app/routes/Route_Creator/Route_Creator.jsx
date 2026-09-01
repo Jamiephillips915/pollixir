@@ -5,7 +5,7 @@ import 'leaflet/dist/leaflet.css';
 import RegionsMap from '../../../assets/RegionsMap.json';
 import ConstituenciesMap from '../../../assets/Constituencies.json';
 import exitButton from '../../../assets/left-arrow.svg';
-import { useState, useEffect, useRef } from "react";
+import { useState, useEffect} from "react";
 import Embedded_Accordian, { Bar } from "../../../Components/Embedded_Accordian/Embedded_Accordian";
 
 function Route_Creator() {
@@ -158,8 +158,6 @@ function Selection_Map({ currentArea, SetArea }) {
                 });
             },
             click: (e) => {
-                const target = e.target;
-
                 const constituency = feature.properties.PCON24NM;
                 SetArea("Constituency: " + constituency);
             }
@@ -259,7 +257,7 @@ function Manual_Selection({ constituency }) {
     }, [])
 
     return (
-        <Embedded_Accordian title={"Select Roads from the Constituency: "} constituency={constituency} areaStats={areaStats}>
+        <Embedded_Accordian title={"Select wards from the Constituency: "} constituency={constituency} areaStats={areaStats}>
             {wardTitles.map((ward, index) => {
                 return (
                     <Bar key={ward} location={ward} areaStats={wardData[index] ?? 0}>
