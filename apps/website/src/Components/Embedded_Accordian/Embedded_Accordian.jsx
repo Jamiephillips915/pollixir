@@ -32,7 +32,7 @@ export function Bar({ location, children, areaStats }) {
                     <p>{location}</p>
                     {children && <div className={styles.expandButton} onClick={() => { EnableExpansion(!expandClicked) }}><img src={ExpandButton} /></div>}
                 </div>
-                <p className={styles.areaStats}>{" " + areaStats + " Addresses"}</p>
+                <p className={styles.areaStats}>{areaStats + " Addresses"}</p>
             </div>
             {expandClicked && children}
         </div>

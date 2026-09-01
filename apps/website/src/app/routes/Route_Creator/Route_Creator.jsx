@@ -5,7 +5,7 @@ import 'leaflet/dist/leaflet.css';
 import RegionsMap from '../../../assets/RegionsMap.json';
 import ConstituenciesMap from '../../../assets/Constituencies.json';
 import exitButton from '../../../assets/left-arrow.svg';
-import { useState, useEffect } from "react";
+import { useState, useEffect, useRef } from "react";
 import Embedded_Accordian, { Bar } from "../../../Components/Embedded_Accordian/Embedded_Accordian";
 
 function Route_Creator() {
@@ -40,12 +40,12 @@ function Route_Creator() {
             {workflowMode === true &&
                 <Manual_Selection constituency={constituency} />
             }
-            <button className={styles.generateButton} onClick={() => { (!continueClicked && currentArea !== null) && SetWorkflowMode(generationMode); Clicked(true); SetConstituency(currentArea); }}>Continue</button>
+            <button className={styles.generateButton} onClick={() => { if (!continueClicked && currentArea !== null) { SetWorkflowMode(generationMode); Clicked(true); SetConstituency(currentArea); } }}>Continue</button>
         </div>
     );
 }
 
-function Selection_Map({currentArea, SetArea}) {
+function Selection_Map({ currentArea, SetArea }) {
     const regionStyle = { "color": "#225aab", "opacity": "0.25" }
     const [activeLayer, SetActiveLayer] = useState(RegionsMap)
     const [currentZoom, SetZoom] = useState(6);
@@ -215,36 +215,60 @@ function Generation_Parameters() {
     );
 }
 
-function Manual_Selection({constituency}){
-    const [areaStats, SetAreaStats] = useState(null);
+function Manual_Selection({ constituency }) {
+    const [areaStats, SetAreaStats] = useState(0);
+    const [wardTitles, SetWardTitles] = useState([])
+    const [wardData, SetWardData] = useState([])
 
     useEffect(() => {
-        const fetchData = async () => {
-            try{
-                const response = await fetch('http://localhost:8000/wards/count/Ainsdale')
-                if (!response.ok){
-                    throw new Error("Failed to fetch")
-                }
+        const fetchWards = async () => {
+            const wardsUrl = 'http://localhost:8000/fetchWards/?constituency=' + constituency.replace("Constituency: ", "")
+            const wardCountUrl = 'http://localhost:8000/wardCount/?constituency=' + constituency.replace("Constituency: ", "")
 
-                const data = await response.json();
-                SetAreaStats(data);
-                console.log(data);
+
+            try {
+                const [wardsResponse, wardCountResponse] = await Promise.all([
+                    fetch(wardsUrl),
+                    fetch(wardCountUrl),
+                ])
+
+                const wardsData = await wardsResponse.json();
+                const wardCountData = await wardCountResponse.json();
+                SetWardTitles(wardsData);
+                SetAreaStats(wardCountData);
+
+                const response = await fetch('http://localhost:8000/wardHouseholds/', {
+                    method: 'POST',
+                    headers: {
+                        'Content-Type': 'application/json'
+                    },
+                    body: JSON.stringify({ wards: wardsData })
+                });
+
+                const data = await response.json()
+
+                SetWardData(data)
             }
             catch (err) {
-                null
+                console.log(err)
             }
         }
 
-        fetchData();
+
+        fetchWards();
     }, [])
 
-
-    return(
+    return (
         <Embedded_Accordian title={"Select Roads from the Constituency: "} constituency={constituency} areaStats={areaStats}>
-            <Bar location={"Balls"} areaStats={areaStats}>
-                <Bar location={"Balls"}/>
-            </Bar>
+            {wardTitles.map((ward, index) => {
+                return (
+                    <Bar key={ward} location={ward} areaStats={wardData[index] ?? 0}>
+
+                    </Bar>
+                );
+            })}
         </Embedded_Accordian>
+
     );
 }
 
