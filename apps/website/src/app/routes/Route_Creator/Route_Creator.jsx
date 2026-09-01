@@ -137,7 +137,6 @@ function Selection_Map({ currentArea, SetArea }) {
                 }
                 SetActiveLayer(filteredMap);
                 setIsRegionView(false);
-                SetFeatureFunction(() => constituencyOnEachFeature);
             }
         }
         );
@@ -176,7 +175,7 @@ function Selection_Map({ currentArea, SetArea }) {
                     </MapContainer>
                     <p className={styles.areaTitle}>{currentArea}</p>
                 </div>
-                <div className={styles.mapBackButton} onClick={() => { SetActiveLayer(RegionsMap), SetZoom(6), SetArea("Select an Area"), SetFeatureFunction(() => regionOnEachFeature), setIsRegionView(true) }}>
+                <div className={styles.mapBackButton} onClick={() => { SetActiveLayer(RegionsMap), SetZoom(6), SetArea("Select an Area"), setIsRegionView(true) }}>
                     <img src={exitButton} />
                 </div>
             </div>
