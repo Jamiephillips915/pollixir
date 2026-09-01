@@ -50,6 +50,7 @@ function Selection_Map({ currentArea, SetArea }) {
     const [activeLayer, SetActiveLayer] = useState(RegionsMap)
     const [currentZoom, SetZoom] = useState(6);
     const [currentCenter, SetCenter] = useState([53.663, -4.760])
+    const [activeFeatureFunction, SetFeatureFunction] = useState(() => regionOnEachFeature);
 
     const regionOnEachFeature = (feature, layer) => {
         layer.on({
@@ -163,8 +164,6 @@ function Selection_Map({ currentArea, SetArea }) {
             }
         })
     }
-
-    const [activeFeatureFunction, SetFeatureFunction] = useState(() => regionOnEachFeature);
 
     return (
         <div>
